@@ -76,7 +76,6 @@ Bmw,2011 BMW 135 i,2011,15980.0,107343.0,Gasoline,Automatic,RWD,24.0,3.0L
 Bmw,2021 BMW X5 M Base,2021,65255.0,45112.0,Gasoline,Automatic,AWD,15.5,4.4L
 Bmw,2018 BMW 530e xDrive iPerformance,2018,18995.0,81407.0,Gasoline,Automatic,AWD,25.5,2.0L
 Bmw,2015 BMW M235 M235i,2015,23998.0,33668.0,Gasoline,Automatic,RWD,22.5,3.0L
-Bmw,2018 BMW X5 M Base,2018,42900.0,43007.0,Gasoline,Other,AWD,16.5,4.4L
 Bmw,2013 BMW X5 M Base,2013,21995.0,87190.0,Gasoline,Automatic,AWD,14.5,4.4L
 Bmw,2023 BMW X5 M Base,2023,83636.0,28637.0,Gasoline,Automatic,AWD,15.5,4.4L
 Bmw,2018 BMW X5 M Base,2018,41789.0,48033.0,Gasoline,Automatic,AWD,16.5,4.4L
@@ -103,7 +102,6 @@ Bmw,2025 BMW M2 Coupe,2025,69800.0,1264.0,Gasoline,Automatic,RWD,19.5,3.0L
 Bmw,2023 BMW M2 Coupe,2023,62800.0,8281.0,Gasoline,Manual,RWD,20.0,3.0L
 Bmw,2024 BMW X3 xDrive30i,2024,47888.0,5309.0,Gasoline,Automatic,AWD,24.5,2.0L
 Bmw,2016 BMW M235 i xDrive,2016,21888.0,97117.0,Gasoline,Automatic,AWD,25.0,3.0L
-Bmw,2018 BMW 340 i,2018,45500.0,40000.0,Gasoline,Other,RWD,24.0,3.0L
 Bmw,2013 BMW X5 M Base,2013,21495.0,78990.0,Gasoline,Automatic,AWD,14.5,4.4L
 Bmw,2019 BMW M760 i xDrive,2019,53995.0,23644.0,Gasoline,Automatic,AWD,16.5,6.6L
 Bmw,2015 BMW M235 2dr Conv M235i,2015,17490.0,86959.0,Gasoline,Automatic,RWD,25.5,3.0L
@@ -217,7 +215,6 @@ Bmw,2024 BMW X5 xDrive40i,2024,46595.0,43749.0,Gasoline,Automatic,AWD,25.0,3.0L
 Bmw,2000 BMW M5 M5,2000,20985.0,132696.0,Gasoline,Manual,RWD,17.0,4.9L
 Bmw,2015 BMW 435 i,2015,15495.0,96686.0,Gasoline,Automatic,RWD,26.5,3.0L
 Bmw,2020 BMW X6 xDrive40i,2020,40980.0,71525.0,Gasoline,Automatic,AWD,25.5,3.0L
-Bmw,2013 BMW 328 i,2013,12500.0,88695.0,Gasoline,Other,RWD,23.0,3.0L
 Bmw,2024 BMW 430 Gran Coupe i xDrive,2024,42099.0,17229.0,Gasoline,Automatic,AWD,28.0,2.0L
 Bmw,2022 BMW 740 i xDrive,2022,48099.0,32507.0,Gasoline,Automatic,AWD,23.5,3.0L
 Bmw,2023 BMW XM Base,2023,92899.0,5832.0,Gasoline,Automatic,AWD,25.5,4.4L
@@ -351,7 +348,6 @@ Bmw,2016 BMW X1 xDrive 28i,2016,14900.0,83619.0,Gasoline,Manual,AWD,27.0,2.0L
 Bmw,2021 BMW 330 i xDrive,2021,32699.0,7951.0,Gasoline,Automatic,AWD,29.5,2.0L
 Bmw,2019 BMW M850 M850i xDrive,2019,50187.0,32151.0,Gasoline,Automatic,AWD,21.5,4.4L
 Bmw,2014 BMW X5 xDrive35d,2014,21500.0,95830.0,Diesel,Automatic,AWD,25.5,3.0L
-Bmw,2013 BMW M5 Base,2013,29900.0,66310.0,Gasoline,Other,RWD,17.0,4.4L
 Bmw,2023 BMW X5 xDrive40i,2023,34972.0,60007.0,Gasoline,Automatic,AWD,23.0,3.0L
 Bmw,2022 BMW X7 xDrive40i,2022,51495.0,40207.0,Gasoline,Automatic,AWD,21.5,3.0L
 Bmw,2020 BMW X4 xDrive30i,2020,29990.0,43981.0,Gasoline,Automatic,AWD,25.5,2.0L
@@ -379,7 +375,6 @@ Bmw,2022 BMW 540 i xDrive,2022,39266.0,59422.0,Gasoline,Automatic,AWD,25.5,3.0L
 Bmw,2013 BMW M5 Base,2013,42900.0,50332.0,Gasoline,Manual,RWD,25.5,4.4L
 Bmw,2024 BMW i5 eDrive40,2024,65488.0,1100.0,Electric,Automatic,RWD,25.5,Electric
 Bmw,2022 BMW 330 i xDrive,2022,32888.0,19963.0,Gasoline,Automatic,AWD,29.5,2.0L
-Bmw,2019 BMW X5 xDrive40i,2019,23750.0,77000.0,Gasoline,Other,AWD,23.0,3.0L
 Bmw,2022 BMW X7 xDrive40i,2022,56971.0,25348.0,Gasoline,Automatic,AWD,21.5,3.0L
 Bmw,2023 BMW X6 M50i,2023,75999.0,25999.0,Gasoline,Automatic,AWD,19.0,4.4L
 Bmw,2022 BMW 540 i xDrive,2022,47851.0,31897.0,Gasoline,Automatic,AWD,25.5,3.0L
@@ -389,7 +384,6 @@ Bmw,2018 BMW 540 xDrive,2018,22495.0,84119.0,Gasoline,Automatic,AWD,24.5,3.0L
 Bmw,2022 BMW X4 xDrive30i,2022,44940.0,2178.0,Gasoline,Automatic,AWD,24.5,2.0L
 Bmw,2023 BMW X1 xDrive28i,2023,29750.0,31148.0,Gasoline,Automatic,AWD,29.5,2.0L
 Bmw,2017 BMW 540 i xDrive,2017,20700.0,90296.0,Gasoline,Automatic,AWD,24.5,3.0L
-Bmw,2003 BMW 325 Ci,2003,3450.0,173753.0,Gasoline,Automatic,Other,25.5,2.5L
 Bmw,2018 BMW 540 i xDrive,2018,20500.0,80137.0,Gasoline,Automatic,AWD,24.5,3.0L
 Bmw,2022 BMW X7 xDrive40i,2022,58879.0,13357.0,Gasoline,Automatic,AWD,21.5,3.0L
 Bmw,2022 BMW 540 i xDrive,2022,46689.0,23891.0,Gasoline,Automatic,AWD,25.5,3.0L
@@ -437,8 +431,6 @@ Bmw,2024 BMW 228 Gran Coupe i sDrive,2024,42895.0,1342.0,Gasoline,Automatic,FWD,
 Bmw,2021 BMW X1 xDrive28i,2021,26289.0,26845.0,Gasoline,Automatic,AWD,27.0,2.0L
 Bmw,2020 BMW X5 xDrive40i,2020,27433.0,88330.0,Gasoline,Automatic,AWD,23.0,3.0L
 Bmw,2025 BMW X1 xDrive28i,2025,47525.0,1100.0,Gasoline,Automatic,AWD,28.5,2.0L
-Bmw,2015 BMW M4 Base,2015,34942.0,62346.0,Gasoline,Other,RWD,20.5,3.0L
-Bmw,2019 BMW M4 Base,2019,42500.0,66000.0,Gasoline,Other,RWD,20.0,3.0L
 Bmw,2024 BMW X5 xDrive40i,2024,46295.0,43763.0,Gasoline,Automatic,AWD,25.0,3.0L
 Bmw,2019 BMW X7 xDrive40i,2019,35895.0,78559.0,Gasoline,Automatic,AWD,22.5,3.0L
 Bmw,2025 BMW M4 Competition xDrive,2025,87980.0,4150.0,Gasoline,Automatic,AWD,19.5,3.0L
@@ -466,7 +458,6 @@ Bmw,2024 BMW X4 xDrive30i,2024,42391.0,20524.0,Gasoline,Automatic,AWD,24.5,2.0L
 Bmw,2022 BMW X6 M Base,2022,75800.0,43317.0,Gasoline,Automatic,AWD,15.5,4.4L
 Bmw,2022 BMW M4 Competition xDrive,2022,65980.0,35378.0,Gasoline,Automatic,AWD,19.5,3.0L
 Bmw,2016 BMW M4 Base,2016,33800.0,76953.0,Gasoline,Manual,RWD,21.5,3.0L
-Bmw,2013 BMW X5 xDrive50i,2013,11900.0,100813.0,Gasoline,Other,AWD,17.0,4.4L
 Bmw,2013 BMW 135 135is 2dr Convertible,2013,15490.0,68994.0,Gasoline,Automatic,RWD,25.0,3.0L
 Bmw,2019 BMW X5 xDrive40i,2019,32995.0,47914.0,Gasoline,Automatic,AWD,23.0,3.0L
 Bmw,2020 BMW M4 Base,2020,56859.0,17666.0,Gasoline,Automatic,RWD,20.0,3.0L
@@ -495,7 +486,6 @@ Bmw,2024 BMW 228 Gran Coupe i xDrive,2024,41990.0,2418.0,Gasoline,Automatic,AWD,
 Bmw,2024 BMW 228 Gran Coupe i xDrive,2024,46495.0,2221.0,Gasoline,Automatic,AWD,28.0,2.0L
 Honda,2023 Honda Pilot AWD LX,2023,34998.0,15255.0,Gasoline,Automatic,AWD,22.0,3.5L
 Honda,2005 Honda Element LX,2005,12957.0,71772.0,Gasoline,Automatic,4WD,22.5,2.4L
-Honda,2023 Honda Civic Type R Base,2023,42900.0,8246.0,Gasoline,Other,FWD,25.0,2.0L
 Honda,2016 Honda Odyssey EX-L,2016,8999.0,208157.0,Gasoline,Automatic,FWD,23.5,3.5L
 Honda,2019 Honda Civic Type R Touring,2019,35995.0,48975.0,Gasoline,Manual,FWD,25.0,2.0L
 Honda,2014 Honda Accord LX,2014,17995.0,14809.0,Gasoline,Automatic,FWD,31.5,2.4L
@@ -510,7 +500,6 @@ Honda,2010 Honda Element EX Sport Utility 4D,2010,19900.0,44346.0,Gasoline,Autom
 Honda,2011 Honda Element EX Sport Utility 4D,2011,20900.0,50735.0,Gasoline,Automatic,4WD,21.5,2.4L
 Honda,2024 Honda Pilot TrailSport,2024,44775.0,19107.0,Gasoline,Automatic,AWD,20.5,3.5L
 Honda,2005 Honda S2000 Base,2005,59800.0,16976.0,Gasoline,Manual,RWD,20.0,2.0L
-Honda,2002 Honda S2000 Base,2002,23000.0,130000.0,Gasoline,Other,RWD,23.0,2.0L
 Honda,2000 Honda S2000 Base,2000,34999.0,31339.0,Gasoline,Manual,RWD,23.0,2.0L
 Honda,2006 Honda Odyssey EX-L,2006,2400.0,239000.0,Gasoline,Automatic,FWD,23.0,3.5L
 Honda,2023 Honda CR-V EX 2WD,2023,25000.0,43717.0,Gasoline,Automatic,FWD,31.0,1.5L
@@ -531,7 +520,6 @@ Honda,2008 Honda Element EX,2008,7975.0,188175.0,Gasoline,Manual,4WD,20.5,2.4L
 Honda,2016 Honda Odyssey SE,2016,18450.0,69900.0,Gasoline,Automatic,FWD,23.5,3.5L
 Honda,2017 Honda CR-V Touring,2017,19162.0,107477.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2019 Honda CR-V Touring,2019,24777.0,54971.0,Gasoline,Automatic,AWD,30.0,1.5L
-Honda,2024 Honda Accord Hybrid EX-L,2024,33684.0,10349.0,Hybrid,Other,FWD,47.5,2.0L
 Honda,2024 Honda CR-V EX-L,2024,32177.0,40944.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2023 Honda CR-V LX AWD,2023,28000.0,11080.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2024 Honda Accord Hybrid Base,2024,26000.0,23598.0,Hybrid,Automatic,FWD,43.5,2.0L
@@ -561,7 +549,6 @@ Honda,2018 Honda CR-V EX-L,2018,23991.0,44947.0,Gasoline,Automatic,FWD,31.0,1.5L
 Honda,2021 Honda Civic LX,2021,19995.0,51115.0,Gasoline,Automatic,FWD,34.0,2.0L
 Honda,2024 Honda Accord Hybrid Base,2024,27248.0,33519.0,Hybrid,Automatic,FWD,43.5,2.0L
 Honda,2023 Honda Odyssey Sport,2023,36288.0,18090.0,Gasoline,Automatic,FWD,23.5,3.5L
-Honda,2015 Honda CR-V EX-L,2015,14998.0,89296.0,Gasoline,Other,AWD,29.5,2.4L
 Honda,2011 Honda Odyssey EX-L,2011,8495.0,156718.0,Gasoline,Automatic,FWD,22.5,3.5L
 Honda,2015 Honda CR-V Touring,2015,18467.0,72840.0,Gasoline,Automatic,AWD,29.5,2.4L
 Honda,2022 Honda CR-V EX-L,2022,29495.0,43579.0,Gasoline,Automatic,AWD,29.5,1.5L
@@ -579,7 +566,6 @@ Honda,2024 Honda Accord Hybrid Base,2024,28496.0,25408.0,Hybrid,Automatic,FWD,43
 Honda,2020 Honda Ridgeline Sport,2020,23743.0,78195.0,Gasoline,Automatic,AWD,21.5,3.5L
 Honda,2015 Honda Odyssey EX,2015,15999.0,77881.0,Gasoline,Automatic,FWD,23.5,3.5L
 Honda,2022 Honda CR-V EX-L,2022,30494.0,13197.0,Gasoline,Automatic,AWD,29.5,1.5L
-Honda,2017 Honda Civic EX,2017,15900.0,93080.0,Gasoline,Other,FWD,35.5,2.0L
 Honda,2024 Honda Civic Sport,2024,26100.0,18927.0,Gasoline,Automatic,FWD,33.5,2.0L
 Honda,2015 Honda CR-V EX-L,2015,22985.0,57220.0,Gasoline,Automatic,AWD,29.5,2.4L
 Honda,2014 Honda Civic LX,2014,17985.0,44407.0,Gasoline,Automatic,FWD,34.5,1.8L
@@ -592,10 +578,8 @@ Honda,2016 Honda Odyssey EX,2016,17295.0,89985.0,Gasoline,Automatic,FWD,23.5,3.5
 Honda,2022 Honda Insight Touring,2022,24728.0,41390.0,Gasoline,Automatic,FWD,48.0,1.5L
 Honda,2015 Honda CR-V EX,2015,15233.0,114393.0,Gasoline,Automatic,AWD,29.5,2.4L
 Honda,2017 Honda Pilot EX-L,2017,18551.0,108306.0,Gasoline,Automatic,AWD,22.0,3.5L
-Honda,2018 Honda CR-V EX,2018,21999.0,50851.0,Gasoline,Other,AWD,30.0,1.5L
 Honda,2018 Honda Odyssey EX-L,2018,24989.0,66557.0,Gasoline,Automatic,FWD,23.5,3.5L
 Honda,2025 Honda CR-V LX AWD,2025,29957.0,5573.0,Gasoline,Automatic,AWD,28.5,1.5L
-Honda,2023 Honda CR-V Sport,2023,32495.0,16886.0,Hybrid,Other,AWD,37.0,2.0L
 Honda,2024 Honda Civic Sport,2024,25491.0,46562.0,Gasoline,Automatic,FWD,33.5,2.0L
 Honda,2020 Honda Passport Elite,2020,28588.0,51211.0,Gasoline,Automatic,AWD,21.5,3.5L
 Honda,2012 Honda Odyssey Touring,2012,9990.0,151186.0,Gasoline,Automatic,FWD,23.5,3.5L
@@ -608,7 +592,6 @@ Honda,2013 Honda Fit Base,2013,6692.0,157631.0,Gasoline,Automatic,FWD,31.5,1.5L
 Honda,2024 Honda CR-V EX AWD,2024,32797.0,18128.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2013 Honda Fit Sport,2013,8000.0,141026.0,Gasoline,Automatic,FWD,30.0,1.5L
 Honda,2022 Honda CR-V AWD EX,2022,28849.0,12870.0,Gasoline,Automatic,AWD,29.5,1.5L
-Honda,2019 Honda Fit LX,2019,18677.0,32898.0,Gasoline,Other,FWD,36.5,1.5L
 Honda,2010 Honda CR-V EX-L,2010,10000.0,111225.0,Gasoline,Automatic,4WD,24.0,2.4L
 Honda,2015 Honda CR-V EX,2015,12533.0,163910.0,Gasoline,Automatic,AWD,29.5,2.4L
 Honda,2021 Honda CR-V EX-L,2021,29895.0,27881.0,Gasoline,Automatic,FWD,31.0,1.5L
@@ -637,7 +620,6 @@ Honda,2016 Honda CR-V EX,2016,9950.0,213466.0,Gasoline,Automatic,AWD,28.0,2.4L
 Honda,2016 Honda CR-V Touring,2016,17888.0,117907.0,Gasoline,Automatic,AWD,28.0,2.4L
 Honda,2023 Honda CR-V LX,2023,29400.0,12145.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2023 Honda Odyssey EX-L,2023,35975.0,28238.0,Gasoline,Automatic,FWD,23.5,3.5L
-Honda,2016 Honda Civic Touring,2016,15980.0,104725.0,Gasoline,Other,FWD,36.5,1.5L
 Honda,2015 Honda CR-V EX-L,2015,15988.0,91085.0,Gasoline,Automatic,AWD,29.5,2.4L
 Honda,2005 Honda Civic VP,2005,3000.0,198000.0,Gasoline,Automatic,FWD,31.5,1.7L
 Honda,2014 Honda Odyssey EX-L,2014,10998.0,157649.0,Gasoline,Automatic,FWD,23.5,3.5L
@@ -654,7 +636,6 @@ Honda,2019 Honda Civic EX-L,2019,21954.0,22579.0,Gasoline,Automatic,FWD,37.0,1.5
 Honda,2019 Honda Odyssey EX-L,2019,20954.0,100653.0,Gasoline,Automatic,FWD,23.5,3.5L
 Honda,2015 Honda Fit EX,2015,12653.0,93513.0,Gasoline,Automatic,FWD,35.0,1.5L
 Honda,2009 Honda Fit Base,2009,6788.0,104823.0,Gasoline,Automatic,FWD,25.5,1.5L
-Honda,2024 Honda CR-V EX-L,2024,31800.0,21111.0,Gasoline,Other,AWD,29.5,1.5L
 Honda,2014 Honda Ridgeline SE,2014,24998.0,31074.0,Gasoline,Automatic,4WD,18.0,3.5L
 Honda,2018 Honda CR-V EX-L,2018,23600.0,52505.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2019 Honda Passport EX-L,2019,25996.0,49538.0,Gasoline,Automatic,AWD,21.5,3.5L
@@ -671,9 +652,7 @@ Honda,2017 Honda CR-V EX-L,2017,11728.0,199471.0,Gasoline,Automatic,FWD,31.0,1.5
 Honda,2023 Honda Civic Si Base,2023,29599.0,19615.0,Gasoline,Manual,FWD,32.0,1.5L
 Honda,2018 Honda CR-V EX-L,2018,23497.0,39375.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2019 Honda CR-V EX,2019,18888.0,99065.0,Gasoline,Automatic,AWD,30.0,1.5L
-Honda,2024 Honda HR-V Sport,2024,28490.0,3725.0,Gasoline,Other,AWD,27.5,2.0L
 Honda,2014 Honda Accord LX,2014,11990.0,111000.0,Gasoline,Automatic,FWD,31.5,2.4L
-Honda,2015 Honda CR-V EX,2015,14000.0,120314.0,Gasoline,Other,AWD,29.5,2.4L
 Honda,2019 Honda CR-V EX,2019,22888.0,65209.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2016 Honda Fit LX,2016,14495.0,79080.0,Gasoline,Automatic,FWD,37.0,1.5L
 Honda,2022 Honda Civic Touring,2022,24726.0,25230.0,Gasoline,Automatic,FWD,34.5,1.5L
@@ -704,9 +683,6 @@ Honda,2013 Honda CR-V LX,2013,12600.0,116003.0,Gasoline,Automatic,AWD,26.0,2.4L
 Honda,2016 Honda CR-V EX,2016,15500.0,106410.0,Gasoline,Automatic,AWD,28.0,2.4L
 Honda,2019 Honda Accord Sport,2019,16995.0,135283.0,Gasoline,Automatic,FWD,32.0,1.5L
 Honda,2024 Honda Pilot TrailSport,2024,44999.0,16111.0,Gasoline,Automatic,AWD,20.5,3.5L
-Honda,2017 Honda CR-V EX-L,2017,19400.0,84082.0,Gasoline,Other,AWD,30.0,1.5L
-Honda,2023 Honda CR-V EX,2023,28995.0,27422.0,Gasoline,Other,AWD,29.5,1.5L
-Honda,2021 Honda CR-V EX AWD,2021,25943.0,59681.0,Gasoline,Other,AWD,25.5,1.5L
 Honda,2013 Honda CR-V EX-L,2013,12990.0,96977.0,Gasoline,Automatic,AWD,30.0,2.4L
 Honda,2012 Honda CR-V EX-L,2012,7999.0,176854.0,Gasoline,Automatic,AWD,30.0,2.4L
 Honda,2022 Honda CR-V EX,2022,28694.0,27338.0,Gasoline,Automatic,AWD,29.5,1.5L
@@ -744,7 +720,6 @@ Honda,2023 Honda Civic Si Base,2023,29869.0,39064.0,Gasoline,Manual,FWD,32.0,1.5
 Honda,2013 Honda CR-V EX-L,2013,12977.0,108328.0,Gasoline,Automatic,AWD,26.0,2.4L
 Honda,2022 Honda CR-V Touring,2022,31948.0,7213.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2010 Honda CR-V EX,2010,9000.0,124024.0,Gasoline,Automatic,4WD,24.0,2.4L
-Honda,2022 Honda CR-V AWD EX,2022,27097.0,29893.0,Gasoline,Other,AWD,29.5,1.5L
 Honda,2021 Honda CR-V EX,2021,22988.0,91691.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2016 Honda CR-V LX,2016,13995.0,115880.0,Gasoline,Automatic,RWD,29.5,2.4L
 Honda,2025 Honda Passport EX-L,2025,39676.0,2081.0,Gasoline,Automatic,AWD,21.5,3.5L
@@ -758,7 +733,6 @@ Honda,2023 Honda Passport TrailSport,2023,35298.0,19942.0,Gasoline,Automatic,AWD
 Honda,2018 Honda CR-V Touring,2018,24887.0,47845.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2014 Honda CR-V EX,2014,12928.0,137954.0,Gasoline,Automatic,AWD,26.0,2.4L
 Honda,2013 Honda Pilot EX-L,2013,9900.0,147324.0,Gasoline,Automatic,4WD,20.5,3.5L
-Honda,2022 Honda CR-V EX,2022,27999.0,22898.0,Gasoline,Other,AWD,29.5,1.5L
 Honda,2010 Honda CR-V LX,2010,9194.0,121757.0,Gasoline,Automatic,4WD,24.0,2.4L
 Honda,2014 Honda CR-V LX,2014,11994.0,123966.0,Gasoline,Automatic,AWD,26.0,2.4L
 Honda,2013 Honda CR-V EX-L,2013,12000.0,134830.0,Gasoline,Automatic,AWD,26.0,2.4L
@@ -777,12 +751,10 @@ Honda,2019 Honda Accord Hybrid Base,2019,22728.0,40924.0,Hybrid,Automatic,FWD,48
 Honda,2021 Honda Accord Sport 1.5T,2021,24215.0,67978.0,Gasoline,Automatic,FWD,27.0,2.0L
 Honda,2011 Honda CR-V EX-L,2011,8497.0,162353.0,Gasoline,Automatic,4WD,24.0,2.4L
 Honda,2022 Honda Accord Hybrid EX-L,2022,24995.0,56653.0,Hybrid,Automatic,FWD,47.5,2.0L
-Honda,2022 Honda CR-V AWD EX-L,2022,27395.0,44010.0,Gasoline,Other,AWD,29.5,1.5L
 Honda,2013 Honda CR-V EX,2013,13574.0,106611.0,Gasoline,Automatic,AWD,26.0,2.4L
 Honda,2019 Honda CR-V EX,2019,18395.0,100045.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2011 Honda CR-V EX,2011,11000.0,88369.0,Gasoline,Automatic,4WD,24.0,2.4L
 Honda,2022 Honda CR-V EX,2022,28884.0,18876.0,Gasoline,Automatic,AWD,29.5,1.5L
-Honda,2021 Honda CR-V EX-L,2021,26700.0,23321.0,Gasoline,Other,AWD,29.5,1.5L
 Honda,2018 Honda CR-V EX-L,2018,20889.0,83664.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2016 Honda CR-V EX,2016,17795.0,82102.0,Gasoline,Automatic,AWD,28.0,2.4L
 Honda,2019 Honda CR-V EX,2019,24834.0,20901.0,Gasoline,Automatic,AWD,30.0,1.5L
@@ -796,8 +768,6 @@ Honda,2014 Honda CR-V EX,2014,13775.0,105712.0,Gasoline,Automatic,FWD,27.0,2.4L
 Honda,2017 Honda CR-V EX,2017,12222.0,150806.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2017 Honda CR-V EX-L,2017,21184.0,51537.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2018 Honda CR-V Touring,2018,22925.0,98986.0,Gasoline,Automatic,AWD,30.0,1.5L
-Honda,2022 Honda CR-V EX,2022,25300.0,37986.0,Gasoline,Other,AWD,29.5,1.5L
-Honda,2022 Honda CR-V AWD EX-L,2022,28779.0,27925.0,Gasoline,Other,AWD,29.5,1.5L
 Honda,2021 Honda CR-V AWD Touring,2021,27397.0,40599.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2016 Honda CR-V SE,2016,16984.0,104764.0,Gasoline,Automatic,AWD,28.0,2.4L
 Honda,2016 Honda CR-V EX,2016,11855.0,162246.0,Gasoline,Automatic,AWD,28.0,2.4L
@@ -812,20 +782,16 @@ Honda,2013 Honda CR-V LX,2013,11995.0,115857.0,Gasoline,Automatic,FWD,27.0,2.4L
 Honda,2020 Honda CR-V AWD LX,2020,18995.0,129363.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2011 Honda CR-V SE,2011,11928.0,99755.0,Gasoline,Automatic,4WD,24.0,2.4L
 Honda,2017 Honda CR-V EX,2017,22885.0,79910.0,Gasoline,Automatic,AWD,30.0,1.5L
-Honda,2024 Honda Accord Hybrid Base,2024,31313.0,2274.0,Hybrid,Other,FWD,43.5,2.0L
 Honda,2023 Honda CR-V EX-L,2023,31991.0,16029.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2021 Honda CR-V AWD EX,2021,26491.0,17337.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2023 Honda CR-V LX AWD,2023,23608.0,63911.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2009 Honda CR-V EX-L,2009,6750.0,159226.0,Gasoline,Automatic,4WD,23.0,2.4L
 Honda,2020 Honda Civic LX,2020,15980.0,92962.0,Gasoline,Automatic,FWD,34.0,2.0L
 Honda,2016 Honda CR-V EX,2016,10999.0,155214.0,Gasoline,Automatic,FWD,29.5,2.4L
-Honda,2017 Honda CR-V Touring,2017,19940.0,98248.0,Gasoline,Other,AWD,30.0,1.5L
 Honda,2023 Honda CR-V EX AWD,2023,29916.0,27025.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2007 Honda CR-V EX-L,2007,7895.0,131275.0,Gasoline,Automatic,FWD,26.5,2.4L
-Honda,2015 Honda Accord Hybrid Touring,2015,15000.0,112469.0,Hybrid,Other,FWD,47.5,2.0L
 Honda,2018 Honda CR-V LX,2018,19800.0,72195.0,Gasoline,Automatic,FWD,29.0,2.4L
 Honda,2005 Honda CR-V EX,2005,18985.0,38000.0,Gasoline,Automatic,4WD,24.5,2.4L
-Honda,2020 Honda CR-V AWD EX-L,2020,25425.0,57425.0,Gasoline,Other,AWD,29.5,1.5L
 Honda,2015 Honda CR-V LX,2015,14575.0,90038.0,Gasoline,Automatic,AWD,29.5,2.4L
 Honda,2023 Honda CR-V EX-L AWD,2023,32355.0,32198.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2020 Honda CR-V AWD EX,2020,17863.0,188751.0,Gasoline,Automatic,AWD,29.5,1.5L
@@ -836,25 +802,19 @@ Honda,2022 Honda Pilot AWD Elite,2022,39980.0,28767.0,Gasoline,Automatic,AWD,22.
 Honda,2022 Honda CR-V Hybrid Touring,2022,28995.0,66789.0,Hybrid,Automatic,AWD,37.5,2.0L
 Honda,2019 Honda CR-V LX,2019,19350.0,40760.0,Gasoline,Automatic,FWD,29.0,2.4L
 Honda,2021 Honda Accord Hybrid Touring,2021,26499.0,34068.0,Hybrid,Automatic,FWD,42.5,2.0L
-Honda,2020 Honda CR-V EX-L,2020,23400.0,62801.0,Gasoline,Other,FWD,31.0,1.5L
 Honda,2020 Honda Accord Hybrid EX-L,2020,25908.0,27339.0,Hybrid,Automatic,FWD,47.5,2.0L
 Honda,2010 Honda CR-V EX,2010,6925.0,173188.0,Gasoline,Automatic,4WD,24.0,2.4L
 Honda,2016 Honda CR-V EX-L,2016,13500.0,135050.0,Gasoline,Automatic,AWD,28.0,2.4L
 Honda,2017 Honda CR-V Touring,2017,17995.0,133803.0,Gasoline,Automatic,AWD,30.0,1.5L
-Honda,2015 Honda CR-V EX,2015,17900.0,36256.0,Gasoline,Other,AWD,33.0,2.4L
 Honda,2016 Honda CR-V Touring,2016,19425.0,81675.0,Gasoline,Automatic,AWD,28.0,2.4L
 Honda,2014 Honda CR-V LX,2014,8694.0,176085.0,Gasoline,Automatic,AWD,26.0,2.4L
 Honda,2023 Honda Accord Hybrid Touring,2023,32495.0,25268.0,Hybrid,Automatic,FWD,43.5,2.0L
-Honda,2020 Honda CR-V EX-L,2020,20631.0,121514.0,Gasoline,Other,AWD,29.5,1.5L
-Honda,2023 Honda CR-V EX-L,2023,29968.0,59868.0,Gasoline,Other,AWD,29.5,1.5L
-Honda,2020 Honda CR-V AWD EX-L,2020,26490.0,33163.0,Gasoline,Other,AWD,29.5,1.5L
 Honda,2024 Honda CR-V EX-L AWD,2024,34615.0,5618.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2019 Honda CR-V LX,2019,20755.0,26333.0,Gasoline,Automatic,FWD,29.0,2.4L
 Honda,2019 Honda Accord Hybrid EX-L,2019,19472.0,83261.0,Hybrid,Automatic,FWD,48.0,2.0L
 Honda,2020 Honda CR-V AWD EX,2020,18786.0,122428.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2021 Honda Pilot AWD Special Edition,2021,25900.0,85634.0,Gasoline,Automatic,AWD,22.5,3.5L
 Honda,2012 Honda CR-V EX-L,2012,12900.0,112400.0,Gasoline,Automatic,AWD,26.0,2.4L
-Honda,2018 Honda CR-V EX-L,2018,19980.0,66312.0,Gasoline,Other,AWD,30.0,1.5L
 Honda,2017 Honda Accord Hybrid EX-L,2017,16914.0,96017.0,Hybrid,Automatic,FWD,48.0,2.0L
 Honda,2022 Honda CR-V EX-L,2022,29483.0,22718.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2022 Honda Accord Hybrid EX-L,2022,27988.0,21805.0,Hybrid,Automatic,FWD,47.5,2.0L
@@ -863,7 +823,6 @@ Honda,2014 Honda CR-V EX,2014,13999.0,100024.0,Gasoline,Automatic,AWD,25.5,2.4L
 Honda,2017 Honda Accord Hybrid Base,2017,15791.0,96462.0,Hybrid,Automatic,FWD,48.0,2.0L
 Honda,2024 Honda CR-V EX AWD,2024,33100.0,12885.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2020 Honda Accord Sport 1.5T,2020,17995.0,106522.0,Gasoline,Automatic,FWD,32.0,1.5L
-Honda,2024 Honda Accord Hybrid Sport-L,2024,31998.0,1392.0,Hybrid,Other,FWD,43.5,2.0L
 Honda,2022 Honda Odyssey EX,2022,30989.0,37959.0,Gasoline,Automatic,FWD,23.5,3.5L
 Honda,2010 Honda Fit Base,2010,7800.0,92473.0,Gasoline,Automatic,FWD,31.5,1.5L
 Honda,2022 Honda Odyssey Elite Automatic,2022,35979.0,31758.0,Gasoline,Automatic,FWD,25.5,3.5L
@@ -873,7 +832,6 @@ Honda,2022 Honda Civic Sport,2022,23894.0,32614.0,Gasoline,Automatic,FWD,33.5,2.
 Honda,2022 Honda Civic EX,2022,24874.0,26427.0,Gasoline,Automatic,FWD,37.5,1.5L
 Honda,2024 Honda Accord Hybrid EX-L,2024,30988.0,37646.0,Hybrid,Automatic,FWD,47.5,2.0L
 Honda,2024 Honda Accord EX,2024,27888.0,7034.0,Gasoline,Automatic,FWD,33.0,1.5L
-Honda,2019 Honda CR-V EX-L,2019,28950.0,4009.0,Gasoline,Other,AWD,30.0,1.5L
 Honda,2023 Honda Accord Hybrid EX-L,2023,29400.0,17835.0,Hybrid,Automatic,FWD,47.5,2.0L
 Honda,2019 Honda CR-V EX,2019,19850.0,97325.0,Gasoline,Automatic,AWD,30.0,1.5L
 Honda,2024 Honda Accord Hybrid Touring,2024,35915.0,4026.0,Hybrid,Automatic,FWD,43.5,2.0L
@@ -900,7 +858,6 @@ Honda,2024 Honda Civic Sport,2024,24995.0,34511.0,Gasoline,Automatic,FWD,33.5,2.
 Honda,2000 Honda Civic DX,2000,5995.0,141934.0,Gasoline,Automatic,FWD,32.0,1.6L
 Honda,2010 Honda Accord 2.4 LX,2010,7495.0,127583.0,Gasoline,Automatic,FWD,26.0,2.4L
 Honda,2021 Honda Accord Sport SE 1.5T,2021,24995.0,55915.0,Gasoline,Automatic,FWD,32.0,1.5L
-Honda,2018 Honda Civic EX,2018,16896.0,130449.0,Gasoline,Other,FWD,35.5,1.5L
 Honda,2021 Honda Passport AWD EX-L,2021,26410.0,67412.0,Gasoline,Automatic,AWD,21.5,3.5L
 Honda,2021 Honda Passport AWD EX-L,2021,24928.0,81915.0,Gasoline,Automatic,AWD,21.5,3.5L
 Honda,2019 Honda Passport EX-L,2019,19928.0,94238.0,Gasoline,Automatic,AWD,21.5,3.5L
@@ -918,11 +875,9 @@ Honda,2023 Honda Passport AWD EX-L,2023,35315.0,11581.0,Gasoline,Automatic,AWD,2
 Honda,2020 Honda Passport AWD EX-L,2020,24888.0,54309.0,Gasoline,Automatic,AWD,21.5,3.5L
 Honda,2019 Honda Civic LX,2019,17995.0,77244.0,Gasoline,Automatic,FWD,34.0,2.0L
 Honda,2019 Honda Passport Touring,2019,25237.0,17734.0,Gasoline,Automatic,FWD,22.5,3.5L
-Honda,2017 Honda Civic EX,2017,14595.0,100150.0,Gasoline,Other,FWD,35.5,2.0L
 Honda,2023 Honda Passport AWD EX-L,2023,31680.0,28713.0,Gasoline,Automatic,AWD,21.5,3.5L
 Honda,2013 Honda CR-V LX,2013,14997.0,84522.0,Gasoline,Automatic,AWD,26.0,2.4L
 Honda,2018 Honda Odyssey EX-L,2018,27500.0,41983.0,Gasoline,Automatic,FWD,23.5,3.5L
-Honda,2022 Honda Civic EX-L,2022,21780.0,56905.0,Gasoline,Other,FWD,35.0,1.5L
 Honda,2022 Honda CR-V EX-L,2022,28994.0,26216.0,Gasoline,Automatic,AWD,29.5,1.5L
 Honda,2024 Honda Civic Sport,2024,26888.0,8715.0,Gasoline,Automatic,FWD,33.5,2.0L
 Honda,2024 Honda Civic Sport,2024,27000.0,15612.0,Gasoline,Automatic,FWD,33.0,2.0L
@@ -971,7 +926,6 @@ Chevrolet,2020 Chevrolet Traverse LT Leather,2020,25998.0,81784.0,Gasoline,Autom
 Chevrolet,2006 Chevrolet SSR Base,2006,37999.0,18667.0,Gasoline,Manual,RWD,16.0,6.0L
 Chevrolet,1995 Chevrolet Caprice Base,1995,29999.0,22584.0,Gasoline,Automatic,RWD,21.0,5.7L
 Chevrolet,2004 Chevrolet SSR Base,2004,25500.0,33679.0,Gasoline,Automatic,RWD,17.5,5.3L
-Chevrolet,1994 Chevrolet 1500 *383SS* *Performance Upgrades* *5-Speed Manual* *Southern-Truck*,1994,23900.0,2600.0,Gasoline,Other,RWD,25.5,5.7L
 Chevrolet,2022 Chevrolet Tahoe LS,2022,49483.0,35628.0,Gasoline,Automatic,4WD,17.5,5.3L
 Chevrolet,2002 Chevrolet Monte Carlo LS 2dr Coupe,2002,6995.0,50038.0,Gasoline,Automatic,FWD,29.0,3.4L
 Chevrolet,2006 Chevrolet Malibu Maxx LT,2006,8495.0,32685.0,Gasoline,Automatic,FWD,28.0,3.5L
@@ -983,7 +937,6 @@ Chevrolet,2015 Chevrolet Silverado 1500 1LT,2015,12950.0,142230.0,Gasoline,Autom
 Chevrolet,2017 Chevrolet City Express 1LT,2017,13499.0,100135.0,Gasoline,Automatic,FWD,25.0,2.0L
 Chevrolet,2021 Chevrolet Suburban LT,2021,40627.0,81602.0,Gasoline,Automatic,4WD,17.0,5.3L
 Chevrolet,2000 Chevrolet Monte Carlo LS,2000,8299.0,46367.0,Gasoline,Automatic,FWD,26.0,3.4L
-Chevrolet,2017 Chevrolet Spark LS,2017,8500.0,81307.0,Gasoline,Other,FWD,34.0,1.4L
 Chevrolet,2019 Chevrolet Trax LT,2019,16195.0,89067.0,Gasoline,Automatic,AWD,26.5,1.4L
 Chevrolet,2022 Chevrolet Express 3500 RWD 3500 Extended Wheelbase LS,2022,33681.0,50178.0,Gasoline,Automatic,RWD,25.5,4.3L
 Chevrolet,2011 Chevrolet Malibu LS,2011,3400.0,141000.0,Gasoline,Automatic,FWD,27.5,2.4L
@@ -999,8 +952,6 @@ Chevrolet,2024 Chevrolet Silverado 1500 LT Trail Boss,2024,47899.0,9333.0,Gasoli
 Chevrolet,2025 Chevrolet Trailblazer LT,2025,26978.0,7109.0,Gasoline,Automatic,AWD,27.5,1.3L
 Chevrolet,2021 Chevrolet Suburban LT,2021,40000.0,82146.0,Gasoline,Automatic,4WD,17.0,5.3L
 Chevrolet,2012 Chevrolet Sonic 1LS,2012,6949.0,80528.0,Gasoline,Manual,FWD,30.5,1.8L
-Chevrolet,1994 Chevrolet Corvette Base,1994,12998.0,49426.0,Gasoline,Automatic,Other,19.5,5.7L
-Chevrolet,1990 Chevrolet Corvette Base,1990,18994.0,10421.0,Gasoline,Automatic,Other,22.0,5.7L
 Chevrolet,2023 Chevrolet Silverado 1500 LT,2023,42199.0,22520.0,Gasoline,Automatic,4WD,17.5,5.3L
 Chevrolet,2023 Chevrolet Silverado 1500 RST,2023,48599.0,12375.0,Gasoline,Automatic,4WD,18.0,5.3L
 Chevrolet,2023 Chevrolet Bolt EUV FWD Premier,2023,24949.0,13028.0,Electric,Automatic,FWD,25.5,Electric
@@ -1018,7 +969,6 @@ Chevrolet,2017 Chevrolet Silverado 1500 LTZ,2017,27977.0,89716.0,Gasoline,Automa
 Chevrolet,2014 Chevrolet Traverse LS,2014,9975.0,96156.0,Gasoline,Automatic,FWD,20.5,3.6L
 Chevrolet,2018 Chevrolet Traverse LT Cloth,2018,21894.0,40998.0,Gasoline,Automatic,FWD,22.5,3.6L
 Chevrolet,2022 Chevrolet Silverado 2500 High Country,2022,61989.0,43868.0,Diesel,Automatic,4WD,25.5,6.6L
-Chevrolet,1988 Chevrolet Corvette Base,1988,14995.0,67862.0,Gasoline,Automatic,Other,25.5,5.7L
 Chevrolet,2018 Chevrolet Silverado 1500 1LT,2018,17998.0,127998.0,Gasoline,Automatic,4WD,19.0,5.3L
 Chevrolet,2004 Chevrolet Corvette Base,2004,16350.0,59812.0,Gasoline,Manual,RWD,22.5,5.7L
 Chevrolet,2023 Chevrolet Traverse High Country,2023,41797.0,46293.0,Gasoline,Automatic,AWD,21.0,3.6L
@@ -1069,7 +1019,6 @@ Chevrolet,2025 Chevrolet Silverado 1500 RST,2025,51000.0,395.0,Gasoline,Automati
 Chevrolet,2022 Chevrolet Spark LS,2022,9995.0,55768.0,Gasoline,Automatic,FWD,34.0,1.4L
 Chevrolet,2020 Chevrolet Traverse LT Leather,2020,20995.0,100029.0,Gasoline,Automatic,FWD,22.5,3.6L
 Chevrolet,2013 Chevrolet Traverse 1LT,2013,11995.0,128021.0,Gasoline,Automatic,AWD,19.5,3.6L
-Chevrolet,2023 Chevrolet Malibu FWD 1LT,2023,19499.0,52711.0,Gasoline,Other,FWD,31.0,1.5L
 Chevrolet,2021 Chevrolet Silverado 1500 Custom,2021,29995.0,48393.0,Gasoline,Automatic,4WD,20.5,2.7L
 Chevrolet,2017 Chevrolet Malibu 1LS,2017,9998.0,114405.0,Gasoline,Automatic,FWD,31.5,1.5L
 Chevrolet,2016 Chevrolet Traverse 1LT,2016,8450.0,126717.0,Gasoline,Automatic,AWD,18.5,3.6L
@@ -1133,7 +1082,6 @@ Chevrolet,2019 Chevrolet Traverse LS,2019,16395.0,130390.0,Gasoline,Automatic,FW
 Chevrolet,2017 Chevrolet Malibu 1LT,2017,16746.0,32772.0,Gasoline,Automatic,FWD,31.5,1.5L
 Chevrolet,2024 Chevrolet Colorado WT,2024,35443.0,2924.0,Gasoline,Automatic,4WD,20.5,2.7L
 Chevrolet,2022 Chevrolet Silverado 1500 LT Trail Boss,2022,42495.0,61720.0,Gasoline,Automatic,4WD,16.5,6.2L
-Chevrolet,2020 Chevrolet Malibu 1LS,2020,12800.0,38986.0,Gasoline,Other,FWD,32.5,1.5L
 Chevrolet,2016 Chevrolet Traverse 2LT,2016,12324.0,108526.0,Gasoline,Automatic,FWD,18.5,3.6L
 Chevrolet,2018 Chevrolet Impala 1LT,2018,15995.0,70589.0,Gasoline,Automatic,FWD,23.0,3.6L
 Chevrolet,2013 Chevrolet Traverse 1LT,2013,8524.0,136114.0,Gasoline,Automatic,AWD,19.5,3.6L
@@ -1142,7 +1090,6 @@ Chevrolet,2019 Chevrolet Corvette ZR1,2019,189800.0,3298.0,Gasoline,Automatic,RW
 Chevrolet,2018 Chevrolet Equinox Premier,2018,16500.0,99664.0,Gasoline,Automatic,FWD,29.0,1.5L
 Chevrolet,2019 Chevrolet Traverse LT Leather,2019,20938.0,107013.0,Gasoline,Automatic,AWD,21.0,3.6L
 Chevrolet,2022 Chevrolet Blazer RS,2022,31798.0,42767.0,Gasoline,Automatic,AWD,22.5,3.6L
-Chevrolet,2023 Chevrolet Malibu FWD 1LT,2023,18982.0,63754.0,Gasoline,Other,FWD,31.0,1.5L
 Chevrolet,2015 Chevrolet Traverse LS,2015,10597.0,104001.0,Gasoline,Automatic,FWD,20.5,3.6L
 Chevrolet,2020 Chevrolet Equinox LS,2020,15990.0,59449.0,Gasoline,Automatic,FWD,28.5,1.5L
 Chevrolet,2008 Chevrolet Silverado 2500 LT2 H/D Crew Cab,2008,33500.0,39124.0,Diesel,Automatic,4WD,25.5,6.6L
@@ -1160,8 +1107,6 @@ Chevrolet,2020 Chevrolet Silverado 1500 RST,2020,35980.0,76375.0,Gasoline,Automa
 Chevrolet,2020 Chevrolet Equinox 1LT,2020,20647.0,20313.0,Gasoline,Automatic,FWD,28.5,1.5L
 Chevrolet,2014 Chevrolet Impala Limited LT,2014,2000.0,188988.0,Gasoline,Automatic,FWD,24.0,3.6L
 Chevrolet,2021 Chevrolet Blazer 1LT,2021,24353.0,29371.0,Gasoline,Automatic,FWD,24.0,2.5L
-Chevrolet,2023 Chevrolet Malibu FWD 1LT,2023,17905.0,67445.0,Gasoline,Other,FWD,31.0,1.5L
-Chevrolet,2024 Chevrolet Malibu FWD RS,2024,22487.0,8656.0,Gasoline,Other,FWD,32.0,1.5L
 Chevrolet,2022 Chevrolet Silverado 1500 LT,2022,34108.0,35330.0,Gasoline,Automatic,4WD,18.5,2.7L
 Chevrolet,2019 Chevrolet Malibu LT,2019,11399.0,103528.0,Gasoline,Automatic,FWD,32.5,1.5L
 Chevrolet,2018 Chevrolet Malibu 1LS,2018,10995.0,93115.0,Gasoline,Automatic,FWD,31.5,1.5L
@@ -1173,7 +1118,6 @@ Chevrolet,2012 Chevrolet Silverado 2500 LTZ,2012,22473.0,160873.0,Diesel,Automat
 Chevrolet,2018 Chevrolet Equinox LS,2018,16991.0,33349.0,Gasoline,Automatic,FWD,29.0,1.5L
 Chevrolet,2020 Chevrolet Malibu FWD LT,2020,9995.0,126674.0,Gasoline,Automatic,FWD,32.5,1.5L
 Chevrolet,2019 Chevrolet Traverse Premier,2019,24966.0,89478.0,Gasoline,Automatic,AWD,21.0,3.6L
-Chevrolet,2015 Chevrolet Camaro 2SS,2015,30500.0,14396.0,Gasoline,Other,RWD,19.5,6.2L
 Chevrolet,2021 Chevrolet Equinox 1LT,2021,17900.0,59298.0,Gasoline,Automatic,FWD,28.5,1.5L
 Chevrolet,2023 Chevrolet Silverado 1500 RST,2023,46199.0,46866.0,Diesel,Automatic,4WD,24.5,3.0L
 Chevrolet,2016 Chevrolet Cruze Limited LTZ,2016,10000.0,90629.0,Gasoline,Automatic,FWD,32.0,1.4L
@@ -1197,7 +1141,6 @@ Chevrolet,2012 Chevrolet Traverse LT,2012,10850.0,170261.0,Gasoline,Automatic,FW
 Chevrolet,2023 Chevrolet Traverse LT Cloth,2023,28000.0,48619.0,Gasoline,Automatic,FWD,22.5,3.6L
 Chevrolet,2015 Chevrolet Corvette Stingray,2015,36699.0,68541.0,Gasoline,Automatic,RWD,22.5,6.2L
 Chevrolet,2023 Chevrolet Traverse LT Cloth,2023,28801.0,42289.0,Gasoline,Automatic,AWD,21.0,3.6L
-Chevrolet,2021 Chevrolet Trailblazer LS,2021,19700.0,45832.0,Gasoline,Other,FWD,29.5,1.2L
 Chevrolet,2023 Chevrolet Traverse Premier,2023,40777.0,38153.0,Gasoline,Automatic,AWD,21.0,3.6L
 Chevrolet,2023 Chevrolet Trailblazer LT,2023,21971.0,29585.0,Gasoline,Automatic,FWD,30.0,1.2L
 Chevrolet,2023 Chevrolet Corvette Stingray w/2LT,2023,73991.0,18258.0,Gasoline,Automatic,RWD,20.0,6.2L
@@ -1260,7 +1203,6 @@ Chevrolet,2022 Chevrolet Equinox RS,2022,24588.0,22277.0,Gasoline,Automatic,AWD,
 Chevrolet,2022 Chevrolet Equinox FWD RS,2022,25847.0,17975.0,Gasoline,Automatic,FWD,28.5,1.5L
 Chevrolet,2020 Chevrolet Colorado LT,2020,23790.0,86804.0,Gasoline,Automatic,4WD,20.5,3.6L
 Chevrolet,2019 Chevrolet Equinox 1LT,2019,14880.0,86200.0,Gasoline,Automatic,FWD,29.0,1.5L
-Chevrolet,2022 Chevrolet Trailblazer LT,2022,21799.0,33376.0,Gasoline,Other,FWD,30.0,1.2L
 Chevrolet,2013 Chevrolet Malibu 2LT,2013,10724.0,63921.0,Gasoline,Automatic,FWD,28.0,2.5L
 Chevrolet,2021 Chevrolet Trailblazer LT,2021,19272.0,41739.0,Gasoline,Automatic,FWD,31.0,1.3L
 Chevrolet,2024 Chevrolet Equinox LS,2024,21775.0,29004.0,Gasoline,Automatic,FWD,28.5,1.5L
@@ -1419,7 +1361,6 @@ Toyota,2005 Toyota RAV4 Base,2005,5200.0,132000.0,Gasoline,Automatic,FWD,26.5,2.
 Toyota,2017 Toyota Yaris iA Base,2017,12720.0,79926.0,Gasoline,Automatic,FWD,36.0,1.5L
 Toyota,2021 Toyota RAV4 Prime SE,2021,35300.0,52660.0,Gasoline,Automatic,AWD,25.5,2.5L
 Toyota,2008 Toyota FJ Cruiser Base,2008,10999.0,206658.0,Gasoline,Manual,4WD,17.5,4.0L
-Toyota,2024 Toyota GR Supra 3.0 Premium,2024,61999.0,1900.0,Gasoline,Other,RWD,23.0,3.0L
 Toyota,2017 Toyota Yaris iA Base,2017,12999.0,46127.0,Gasoline,Automatic,FWD,36.0,1.5L
 Toyota,2023 Toyota Supra 3.0 Premium,2023,58800.0,19849.0,Gasoline,Manual,RWD,23.0,3.0L
 Toyota,2014 Toyota Yaris LE,2014,13295.0,102997.0,Gasoline,Automatic,FWD,33.0,1.5L
@@ -1440,7 +1381,6 @@ Toyota,2023 Toyota Tundra Hybrid TRD Pro,2023,60194.0,34368.0,Hybrid,Automatic,4
 Toyota,2008 Toyota Prius Base,2008,7287.0,107984.0,Gasoline,Automatic,FWD,46.5,1.5L
 Toyota,2013 Toyota Prius Plug-in Advanced,2013,15995.0,66700.0,Hybrid,Automatic,FWD,25.5,1.8L
 Toyota,2022 Toyota 4Runner TRD Pro,2022,54888.0,13372.0,Gasoline,Automatic,4WD,17.5,4.0L
-Toyota,2023 Toyota RAV4 Prime XSE,2023,41999.0,47941.0,Gasoline,Other,AWD,25.5,2.5L
 Toyota,2010 Toyota FJ Cruiser Base,2010,13499.0,180850.0,Gasoline,Automatic,4WD,19.0,4.0L
 Toyota,2017 Toyota Yaris iA Base,2017,10478.0,102448.0,Gasoline,Manual,FWD,34.5,1.5L
 Toyota,2007 Toyota Yaris S,2007,5945.0,139359.0,Gasoline,Automatic,FWD,25.5,1.5L
@@ -1462,11 +1402,9 @@ Toyota,2022 Toyota RAV4 LE,2022,21995.0,74231.0,Gasoline,Automatic,FWD,31.0,2.5L
 Toyota,2005 Toyota Camry Solara SE V6,2005,8850.0,108327.0,Gasoline,Automatic,FWD,24.0,3.3L
 Toyota,2008 Toyota FJ Cruiser Base,2008,10485.0,256097.0,Gasoline,Automatic,4WD,18.0,4.0L
 Toyota,2021 Toyota 4Runner SR5 Premium,2021,39651.0,51184.0,Gasoline,Automatic,4WD,17.5,4.0L
-Toyota,2024 Toyota Venza LE,2024,36500.0,5093.0,Gasoline,Other,AWD,38.5,2.5L
 Toyota,2022 Toyota Tacoma TRD Sport,2022,34999.0,50617.0,Gasoline,Automatic,4WD,20.0,3.5L
 Toyota,2022 Toyota Sienna Platinum 7 Passenger,2022,44405.0,62358.0,Hybrid,Automatic,AWD,35.5,2.5L
 Toyota,2011 Toyota Camry LE,2011,7900.0,138758.0,Gasoline,Automatic,FWD,27.0,2.5L
-Toyota,2009 Toyota Prius Base,2009,4980.0,123343.0,Hybrid,Other,FWD,46.5,1.5L
 Toyota,2024 Toyota Tacoma TRD Off Road,2024,41477.0,13648.0,Gasoline,Automatic,4WD,21.0,2.4L
 Toyota,2013 Toyota 4Runner Limited,2013,18959.0,124841.0,Gasoline,Automatic,4WD,19.0,4.0L
 Toyota,2018 Toyota Sienna SE,2018,31500.0,49759.0,Gasoline,Automatic,FWD,23.0,3.5L
@@ -1611,7 +1549,6 @@ Toyota,2009 Toyota Matrix S,2009,10995.0,53480.0,Gasoline,Automatic,FWD,29.0,2.4
 Toyota,2021 Toyota 4Runner Nightshade Special Edition,2021,35687.0,108890.0,Gasoline,Automatic,4WD,17.5,4.0L
 Toyota,2023 Toyota Tacoma TRD Off Road,2023,34682.0,49891.0,Gasoline,Automatic,RWD,21.5,3.5L
 Toyota,2012 Toyota Avalon Limited,2012,17000.0,119900.0,Gasoline,Automatic,FWD,23.5,3.5L
-Toyota,2021 Toyota Sienna LE,2021,34999.0,42764.0,Gasoline,Other,FWD,36.0,2.5L
 Toyota,2023 Toyota 4Runner TRD Off Road Premium,2023,47307.0,30455.0,Gasoline,Automatic,4WD,17.5,4.0L
 Toyota,2020 Toyota Tacoma TRD Sport,2020,33837.0,41074.0,Gasoline,Automatic,4WD,20.0,3.5L
 Toyota,2024 Toyota Highlander LE,2024,35865.0,28289.0,Gasoline,Automatic,AWD,24.5,2.4L
@@ -1627,7 +1564,6 @@ Toyota,2005 Toyota Tundra Limited Double Cab,2005,5500.0,203485.0,Gasoline,Autom
 Toyota,2023 Toyota Highlander Hybrid Platinum,2023,51581.0,40706.0,Hybrid,Automatic,AWD,34.5,2.5L
 Toyota,2025 Toyota RAV4 LE,2025,34998.0,5106.0,Gasoline,Automatic,FWD,31.0,2.5L
 Toyota,2021 Toyota RAV4 XLE Premium,2021,24995.0,30002.0,Gasoline,Automatic,AWD,30.0,2.5L
-Toyota,2020 Toyota Corolla LE,2020,18700.0,50718.0,Gasoline,Other,FWD,34.0,1.8L
 Toyota,2024 Toyota RAV4 XLE,2024,31495.0,6226.0,Gasoline,Automatic,FWD,31.0,2.5L
 Toyota,2024 Toyota RAV4 LE,2024,31452.0,6880.0,Gasoline,Automatic,FWD,31.0,2.5L
 Toyota,2021 Toyota RAV4 LE,2021,26995.0,47533.0,Gasoline,Automatic,AWD,30.5,2.5L
@@ -1657,9 +1593,7 @@ Toyota,2018 Toyota Tacoma SR5,2018,29999.0,59565.0,Gasoline,Automatic,4WD,20.0,3
 Toyota,2021 Toyota Tacoma SR,2021,32997.0,44283.0,Gasoline,Automatic,4WD,20.0,3.5L
 Toyota,2015 Toyota Highlander XLE,2015,13990.0,182040.0,Gasoline,Automatic,AWD,21.0,3.5L
 Toyota,2022 Toyota Tacoma SR,2022,31700.0,35654.0,Gasoline,Automatic,4WD,20.0,3.5L
-Toyota,2023 Toyota Tacoma TRD Sport,2023,37995.0,31015.0,Gasoline,Other,4WD,25.5,3.5L
 Toyota,2023 Toyota Camry SE,2023,24000.0,59420.0,Gasoline,Automatic,FWD,33.5,2.5L
-Toyota,2019 Toyota Tacoma TRD Sport,2019,25922.0,134245.0,Gasoline,Other,4WD,18.5,3.5L
 Toyota,2024 Toyota RAV4 XLE,2024,32290.0,9065.0,Gasoline,Automatic,FWD,31.0,2.5L
 Toyota,2017 Toyota Prius Two,2017,16490.0,94827.0,Gasoline,Automatic,FWD,52.0,1.8L
 Toyota,2018 Toyota RAV4 Limited,2018,21890.0,96838.0,Gasoline,Automatic,AWD,25.0,2.5L
@@ -1716,7 +1650,6 @@ Toyota,2023 Toyota Tacoma SR5,2023,37791.0,27204.0,Gasoline,Automatic,4WD,20.0,3
 Toyota,2024 Toyota Highlander XLE,2024,44996.0,17699.0,Gasoline,Automatic,AWD,24.5,2.4L
 Toyota,2023 Toyota 4Runner Limited,2023,49488.0,19069.0,Gasoline,Automatic,4WD,17.5,4.0L
 Toyota,2020 Toyota RAV4 Limited,2020,31990.0,36780.0,Gasoline,Automatic,AWD,29.0,2.5L
-Toyota,2019 Toyota Tacoma TRD Sport,2019,28657.0,88494.0,Gasoline,Other,4WD,20.0,3.5L
 Toyota,2024 Toyota Sequoia TRD Pro,2024,79040.0,10448.0,Hybrid,Automatic,4WD,20.5,3.4L
 Toyota,2023 Toyota GR86 Base,2023,31888.0,12863.0,Gasoline,Automatic,RWD,26.0,2.4L
 Toyota,2022 Toyota Tacoma TRD Sport,2022,37988.0,25837.0,Gasoline,Automatic,4WD,20.0,3.5L
@@ -1747,7 +1680,6 @@ Toyota,2023 Toyota Tacoma SR5,2023,35995.0,21955.0,Gasoline,Automatic,4WD,20.0,3
 Toyota,2022 Toyota Camry XSE,2022,30999.0,47563.0,Gasoline,Automatic,FWD,32.5,2.5L
 Toyota,2018 Toyota Highlander Limited,2018,32999.0,30274.0,Gasoline,Automatic,AWD,23.0,3.5L
 Toyota,2021 Toyota RAV4 XLE Premium,2021,25924.0,82185.0,Gasoline,Automatic,AWD,30.0,2.5L
-Toyota,2014 Toyota Corolla S,2014,11324.0,99064.0,Gasoline,Other,FWD,33.0,1.8L
 Toyota,2023 Toyota GR86 Premium,2023,30480.0,15096.0,Gasoline,Automatic,RWD,26.0,2.4L
 Toyota,2022 Toyota RAV4 XLE,2022,27350.0,63548.0,Gasoline,Automatic,AWD,30.0,2.5L
 Toyota,2023 Toyota Camry SE,2023,23948.0,39808.0,Gasoline,Automatic,FWD,33.5,2.5L
@@ -1790,7 +1722,6 @@ Toyota,2024 Toyota Sienna Limited 7-Passenger,2024,54375.0,20269.0,Gasoline,Auto
 Toyota,2013 Toyota Camry L,2013,6990.0,216016.0,Gasoline,Automatic,FWD,30.0,2.5L
 Toyota,2022 Toyota Tacoma SR,2022,31263.0,42290.0,Gasoline,Automatic,4WD,20.0,3.5L
 Toyota,2022 Toyota Tacoma TRD Off Road,2022,33000.0,59334.0,Gasoline,Automatic,RWD,21.5,3.5L
-Toyota,2023 Toyota Tacoma TRD Off-Road,2023,36972.0,25521.0,Gasoline,Other,4WD,25.5,3.5L
 Toyota,2022 Toyota Tacoma TRD Pro,2022,42898.0,62950.0,Gasoline,Automatic,4WD,20.0,3.5L
 Toyota,2022 Toyota RAV4 XLE,2022,26931.0,50522.0,Gasoline,Automatic,FWD,31.0,2.5L
 Toyota,2021 Toyota Tacoma TRD Off Road,2021,32950.0,61918.0,Gasoline,Automatic,4WD,20.0,3.5L
@@ -1802,7 +1733,6 @@ Toyota,2023 Toyota Tacoma SR,2023,37950.0,16649.0,Gasoline,Automatic,4WD,20.0,3.
 Toyota,2004 Toyota Tundra Base,2004,6999.0,179732.0,Gasoline,Automatic,RWD,25.5,3.4L
 Toyota,2019 Toyota Camry Hybrid XLE,2019,24999.0,61311.0,Hybrid,Automatic,FWD,45.5,2.5L
 Toyota,2023 Toyota Tacoma TRD Sport,2023,37490.0,32150.0,Gasoline,Automatic,4WD,19.0,3.5L
-Toyota,2022 Toyota Tacoma TRD Off Road,2022,32989.0,69108.0,Gasoline,Other,4WD,18.5,3.5L
 Toyota,2017 Toyota Tacoma TRD Sport,2017,24807.0,143072.0,Gasoline,Automatic,4WD,20.5,3.5L
 Toyota,2024 Toyota Tacoma TRD Off Road,2024,41000.0,10909.0,Gasoline,Automatic,4WD,21.0,2.4L
 Toyota,2022 Toyota Tacoma TRD Off Road,2022,33300.0,71034.0,Gasoline,Automatic,4WD,20.0,3.5L
@@ -1810,7 +1740,6 @@ Toyota,2022 Toyota RAV4 XLE Premium,2022,32790.0,26353.0,Gasoline,Automatic,AWD,
 Toyota,2019 Toyota Tundra SR5,2019,38990.0,63680.0,Gasoline,Automatic,4WD,15.0,5.7L
 Toyota,2024 Toyota RAV4 XLE,2024,30990.0,25978.0,Gasoline,Automatic,FWD,31.0,2.5L
 Toyota,2020 Toyota Tacoma SR,2020,22949.0,40199.0,Gasoline,Automatic,RWD,21.5,2.7L
-Toyota,2023 Toyota Sienna XLE 7 Passenger,2023,39490.0,79727.0,Gasoline,Other,AWD,35.5,2.5L
 Toyota,2022 Toyota RAV4 XLE Premium,2022,33169.0,11239.0,Gasoline,Automatic,AWD,30.0,2.5L
 Toyota,2022 Toyota RAV4 XLE,2022,27760.0,49883.0,Gasoline,Automatic,AWD,30.0,2.5L
 Toyota,2021 Toyota RAV4 LE,2021,25490.0,43863.0,Gasoline,Automatic,AWD,30.5,2.5L
@@ -1839,8 +1768,6 @@ Toyota,2024 Toyota RAV4 LE,2024,30888.0,5818.0,Gasoline,Automatic,AWD,30.5,2.5L
 Toyota,2024 Toyota RAV4 XLE,2024,32388.0,25285.0,Gasoline,Automatic,AWD,30.0,2.5L
 Toyota,2017 Toyota Prius Two,2017,14995.0,105903.0,Gasoline,Automatic,FWD,52.0,1.8L
 Toyota,2007 Toyota Avalon XLS,2007,5999.0,172155.0,Gasoline,Automatic,FWD,26.5,3.5L
-Toyota,2020 Toyota Camry Hybrid XLE,2020,20490.0,103791.0,Hybrid,Other,FWD,45.5,2.5L
-Toyota,2018 Toyota Camry Hybrid XLE,2018,19980.0,97154.0,Hybrid,Other,FWD,45.5,2.5L
 Toyota,2018 Toyota RAV4 Adventure,2018,16995.0,74172.0,Gasoline,Automatic,FWD,26.5,2.5L
 Toyota,2001 Toyota 4Runner SR5,2001,16900.0,65333.0,Gasoline,Automatic,RWD,17.5,3.4L
 Toyota,2019 Toyota Corolla SE,2019,21176.0,58009.0,Gasoline,Automatic,FWD,37.0,2.0L
@@ -1859,7 +1786,6 @@ Toyota,2023 Toyota RAV4 Adventure,2023,28900.0,44744.0,Gasoline,Automatic,AWD,29
 Toyota,2021 Toyota RAV4 XLE Premium,2021,30890.0,43698.0,Gasoline,Automatic,AWD,30.0,2.5L
 Toyota,2010 Toyota RAV4 Base,2010,10990.0,136693.0,Gasoline,Automatic,4WD,24.0,2.5L
 Toyota,2018 Toyota RAV4 LE,2018,18800.0,46392.0,Gasoline,Automatic,FWD,26.5,2.5L
-Toyota,2023 Toyota Tacoma TRD Off-Road,2023,37300.0,40835.0,Gasoline,Other,4WD,25.5,3.5L
 Toyota,2022 Toyota RAV4 Adventure,2022,29397.0,60979.0,Gasoline,Automatic,AWD,29.0,2.5L
 Toyota,2015 Toyota Camry SE,2015,16495.0,64002.0,Gasoline,Automatic,FWD,30.0,2.5L
 Toyota,2016 Toyota RAV4 Limited,2016,15554.0,138234.0,Gasoline,Automatic,AWD,25.5,2.5L
@@ -1942,7 +1868,6 @@ Tesla,2022 Tesla Model Y Long Range Dual Motor All-Wheel Drive,2022,28795.0,2957
 Tesla,2020 Tesla Model 3 Long Range,2020,19495.0,78023.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2021 Tesla Model Y Long Range Dual Motor All-Wheel Drive,2021,24995.0,73953.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2022 Tesla Model 3 Long Range,2022,24929.0,22220.0,Electric,Automatic,AWD,25.5,Electric
-Tesla,2021 Tesla Model 3 Standard Range Plus,2021,18795.0,89575.0,Electric,Other,RWD,25.5,Electric
 Tesla,2020 Tesla Model 3 Standard Range Plus,2020,17980.0,72718.0,Electric,Automatic,RWD,25.5,Electric
 Tesla,2018 Tesla Model 3 Long Range,2018,16979.0,95617.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2020 Tesla Model 3 Standard Range Plus,2020,14980.0,121246.0,Electric,Automatic,RWD,25.5,Electric
@@ -1995,7 +1920,6 @@ Tesla,2018 Tesla Model 3 Long Range,2018,23990.0,20706.0,Electric,Automatic,AWD,
 Tesla,2019 Tesla Model 3 Performance,2019,21795.0,60762.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2016 Tesla Model S 75,2016,13999.0,139198.0,Electric,Automatic,RWD,25.5,Electric
 Tesla,2023 Tesla Model 3 Long Range,2023,19980.0,109042.0,Electric,Automatic,RWD,25.5,Electric
-Tesla,2018 Tesla Model 3 Long Range,2018,19800.0,70937.0,Electric,Other,AWD,25.5,Electric
 Tesla,2020 Tesla Model 3 Standard Range Plus,2020,24800.0,46267.0,Electric,Automatic,RWD,25.5,Electric
 Tesla,2018 Tesla Model 3 Long Range,2018,22050.0,50483.0,Electric,Automatic,RWD,25.5,Electric
 Tesla,2021 Tesla Model 3 Long Range,2021,21969.0,62662.0,Electric,Automatic,AWD,25.5,Electric
@@ -2018,7 +1942,6 @@ Tesla,2018 Tesla Model 3 Performance,2018,20490.0,82292.0,Electric,Automatic,AWD
 Tesla,2018 Tesla Model 3 Long Range,2018,22726.0,26847.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2018 Tesla Model 3 Performance,2018,24995.0,81400.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2018 Tesla Model 3,2018,21500.0,35501.0,Electric,Automatic,RWD,25.5,Electric
-Tesla,2019 Tesla Model 3 Standard Range,2019,14999.0,94882.0,Electric,Other,RWD,25.5,Electric
 Tesla,2019 Tesla Model 3 Long Range,2019,15995.0,96688.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2021 Tesla Model 3 Long Range,2021,21392.0,63423.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2023 Tesla Model 3 Long Range,2023,29990.0,13594.0,Electric,Automatic,AWD,25.5,Electric
@@ -2061,7 +1984,6 @@ Tesla,2019 Tesla Model S Performance,2019,42800.0,18858.0,Electric,Automatic,AWD
 Tesla,2019 Tesla Model S 100D,2019,31985.0,45989.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2023 Tesla Model 3 Standard Range,2023,25950.0,42908.0,Electric,Automatic,RWD,25.5,Electric
 Tesla,2018 Tesla Model 3 Performance,2018,20559.0,62709.0,Electric,Automatic,AWD,25.5,Electric
-Tesla,2015 Tesla Model S 75D,2015,20995.0,64551.0,Electric,Automatic,Other,25.5,Electric
 Tesla,2021 Tesla Model 3 Long Range,2021,25583.0,35531.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2016 Tesla Model S 85D,2016,19985.0,68001.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2022 Tesla Model S Dual Motor All-Wheel Drive,2022,40972.0,28620.0,Electric,Automatic,AWD,25.5,Electric
@@ -2075,7 +1997,6 @@ Tesla,2022 Tesla Model Y Performance,2022,31891.0,39547.0,Electric,Automatic,AWD
 Tesla,2017 Tesla Model S P100D,2017,26985.0,81316.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2020 Tesla Model S Long Range,2020,35500.0,14268.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2017 Tesla Model S 100D,2017,29988.0,22763.0,Electric,Automatic,AWD,25.5,Electric
-Tesla,2016 Tesla Model S 90D,2016,23495.0,58638.0,Electric,Other,AWD,25.5,Electric
 Tesla,2013 Tesla Model S,2013,13800.0,98025.0,Electric,Automatic,RWD,25.5,Electric
 Tesla,2016 Tesla Model S 60D,2016,15845.0,119217.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2023 Tesla Model Y Long Range,2023,40998.0,5592.0,Electric,Automatic,4WD,25.5,Electric
@@ -2247,7 +2168,6 @@ Tesla,2017 Tesla Model X 100D AWD,2017,27980.0,98593.0,Electric,Automatic,AWD,25
 Tesla,2018 Tesla Model X 100D AWD,2018,20980.0,152275.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2022 Tesla Model X Plaid AWD,2022,61900.0,38523.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2019 Tesla Model X Long Range AWD,2019,33979.0,54156.0,Electric,Automatic,AWD,25.5,Electric
-Tesla,2018 Tesla Model 3 Long Range,2018,18995.0,81026.0,Electric,Other,RWD,25.5,Electric
 Tesla,2020 Tesla Model X Long Range Plus AWD,2020,35979.0,50410.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2023 Tesla Model Y Long Range Dual Motor All-Wheel Drive,2023,30972.0,21772.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2022 Tesla Model 3 Long Range,2022,24888.0,25073.0,Electric,Automatic,AWD,25.5,Electric
@@ -2257,7 +2177,6 @@ Tesla,2022 Tesla Model X Dual Motor All-Wheel Drive,2022,55980.0,27809.0,Electri
 Tesla,2020 Tesla Model X Long Range Plus Dual Motor All-Wheel Drive,2020,39983.0,51589.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2020 Tesla Model 3 Long Range,2020,21920.0,58123.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2023 Tesla Model Y Long Range,2023,33378.0,14529.0,Electric,Automatic,AWD,25.5,Electric
-Tesla,2018 Tesla Model X P100D Sport Utility 4D,2018,36900.0,46057.0,Electric,Other,AWD,25.5,Electric
 Tesla,2017 Tesla Model X 100D,2017,23500.0,98189.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2017 Tesla Model X 90D,2017,18995.0,123482.0,Electric,Automatic,AWD,25.5,Electric
 Tesla,2016 Tesla Model X P90D,2016,23995.0,122046.0,Electric,Automatic,AWD,25.5,Electric
@@ -2384,7 +2303,6 @@ Nissan,2017 Nissan 370Z Touring,2017,23299.0,50248.0,Gasoline,Automatic,RWD,21.5
 Nissan,2009 Nissan 370Z Touring,2009,19795.0,69353.0,Gasoline,Manual,RWD,22.0,3.7L
 Nissan,1992 Nissan 300ZX 2+2,1992,19800.0,28280.0,Gasoline,Manual,RWD,20.5,3.0L
 Nissan,2009 Nissan 370Z NISMO,2009,32800.0,19818.0,Gasoline,Manual,RWD,22.0,3.7L
-Nissan,2013 Nissan 370Z Touring,2013,17495.0,77993.0,Gasoline,Other,RWD,21.5,3.7L
 Nissan,2009 Nissan 370Z Base,2009,17900.0,61897.0,Gasoline,Manual,RWD,22.0,3.7L
 Nissan,2013 Nissan 370Z Base,2013,20900.0,68061.0,Gasoline,Manual,RWD,22.0,3.7L
 Nissan,1990 Nissan 300ZX GS 2dr Hatchback,1990,14900.0,68167.0,Gasoline,Manual,RWD,22.0,3.0L
@@ -2407,18 +2325,15 @@ Nissan,2015 Nissan GT-R Premium,2015,75985.0,69362.0,Gasoline,Automatic,AWD,19.5
 Nissan,2014 Nissan 370Z Touring,2014,21155.0,30415.0,Gasoline,Automatic,RWD,21.5,3.7L
 Nissan,1996 Nissan 300ZX Turbo,1996,26800.0,58180.0,Gasoline,Automatic,RWD,20.0,3.0L
 Nissan,1984 Nissan 300ZX 2+2,1984,18800.0,10290.0,Gasoline,Manual,RWD,20.5,3.0L
-Nissan,2018 Nissan GT-R NISMO,2018,198800.0,6152.0,Gasoline,Other,AWD,19.0,3.8L
 Nissan,1995 Nissan 300ZX Hatchback,1995,32800.0,14047.0,Gasoline,Manual,RWD,20.0,3.0L
 Nissan,1994 Nissan 300ZX Turbo Coupe 2D,1994,28900.0,77557.0,Gasoline,Manual,RWD,19.0,3.0L
 Nissan,2015 Nissan GT-R Premium,2015,86998.0,31511.0,Gasoline,Automatic,AWD,19.5,3.8L
 Nissan,2004 Nissan 350Z Touring,2004,15500.0,37835.0,Gasoline,Manual,RWD,22.5,3.5L
 Nissan,2004 Nissan 350Z Touring,2004,14999.0,50626.0,Gasoline,Manual,RWD,22.5,3.5L
 Nissan,2021 Nissan Rogue SV,2021,22995.0,33315.0,Gasoline,Automatic,AWD,28.5,2.5L
-Nissan,2017 Nissan Versa Note SV,2017,10200.0,72000.0,Gasoline,Other,FWD,35.0,1.6L
 Nissan,2015 Nissan Rogue Select S,2015,7999.0,96324.0,Gasoline,Automatic,FWD,25.5,2.5L
 Nissan,2015 Nissan Rogue S,2015,14846.0,28602.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2020 Nissan Frontier S,2020,17949.0,46259.0,Gasoline,Automatic,RWD,21.0,3.8L
-Nissan,2019 Nissan Rogue SV,2019,15850.0,109037.0,Gasoline,Other,FWD,29.5,2.5L
 Nissan,2023 Nissan ARIYA PLATINUM+,2023,26472.0,8699.0,Electric,Automatic,AWD,25.5,Electric
 Nissan,2016 Nissan 370Z Sport,2016,25352.0,37175.0,Gasoline,Manual,RWD,22.0,3.7L
 Nissan,2021 Nissan NV Cargo NV2500 HD S V6,2021,20500.0,111027.0,Gasoline,Automatic,RWD,25.5,4.0L
@@ -2437,7 +2352,6 @@ Nissan,2018 Nissan Rogue Sport S,2018,13895.0,80621.0,Gasoline,Automatic,AWD,27.
 Nissan,2023 Nissan ARIYA ENGAGE,2023,22438.0,25772.0,Electric,Automatic,FWD,25.5,Electric
 Nissan,2022 Nissan Versa 1.6 SV,2022,15882.0,50971.0,Gasoline,Automatic,FWD,36.0,1.6L
 Nissan,2023 Nissan ARIYA PLATINUM+,2023,29688.0,13540.0,Electric,Automatic,AWD,25.5,Electric
-Nissan,2021 Nissan Rogue SV,2021,22850.0,72949.0,Gasoline,Other,AWD,28.5,2.5L
 Nissan,2023 Nissan Rogue SV,2023,23923.0,16472.0,Gasoline,Automatic,AWD,31.5,1.5L
 Nissan,2022 Nissan Rogue Sport SL,2022,20991.0,48682.0,Gasoline,Automatic,AWD,27.0,2.0L
 Nissan,2023 Nissan ARIYA ENGAGE,2023,21872.0,18437.0,Electric,Automatic,AWD,25.5,Electric
@@ -2450,7 +2364,6 @@ Nissan,2016 Nissan Juke SV,2016,13785.0,39578.0,Gasoline,Automatic,AWD,28.5,1.6L
 Nissan,2014 Nissan Rogue SV,2014,10950.0,87320.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2023 Nissan ARIYA EVOLVE+,2023,33898.0,1159.0,Electric,Automatic,FWD,25.5,Electric
 Nissan,2023 Nissan Rogue SV,2023,21995.0,25209.0,Gasoline,Automatic,AWD,31.5,1.5L
-Nissan,2023 Nissan Rogue SL,2023,28555.0,17098.0,Gasoline,Other,AWD,31.0,1.5L
 Nissan,2015 Nissan Rogue SV,2015,10477.0,101535.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2022 Nissan Rogue S,2022,24854.0,22478.0,Gasoline,Automatic,AWD,31.5,1.5L
 Nissan,2019 Nissan Sentra SV,2019,13995.0,55868.0,Gasoline,Automatic,FWD,33.0,1.8L
@@ -2460,22 +2373,16 @@ Nissan,2021 Nissan Rogue Sport S,2021,18244.0,58026.0,Gasoline,Automatic,AWD,27.
 Nissan,2022 Nissan Sentra SR,2022,22995.0,13956.0,Gasoline,Automatic,FWD,32.5,2.0L
 Nissan,2023 Nissan ARIYA PLATINUM+,2023,31443.0,6200.0,Electric,Automatic,AWD,25.5,Electric
 Nissan,2023 Nissan ARIYA EVOLVE+ e-4ORCE AWD,2023,27979.0,12130.0,Electric,Automatic,AWD,25.5,Electric
-Nissan,2023 Nissan Versa 1.6 S,2023,16799.0,15245.0,Gasoline,Other,FWD,36.0,1.6L
 Nissan,2023 Nissan ARIYA PLATINUM+,2023,26472.0,10556.0,Electric,Automatic,AWD,25.5,Electric
 Nissan,2023 Nissan ARIYA EVOLVE+,2023,25272.0,6383.0,Electric,Automatic,AWD,25.5,Electric
 Nissan,2023 Nissan ARIYA EVOLVE+,2023,26488.0,8173.0,Electric,Automatic,AWD,25.5,Electric
-Nissan,2023 Nissan Rogue SV,2023,26699.0,8242.0,Gasoline,Other,AWD,31.5,1.5L
 Nissan,2023 Nissan ARIYA PLATINUM+,2023,27972.0,7827.0,Electric,Automatic,AWD,25.5,Electric
-Nissan,2021 Nissan Rogue SV,2021,16700.0,97090.0,Gasoline,Other,AWD,28.5,2.5L
 Nissan,2024 Nissan Kicks S,2024,23534.0,4065.0,Gasoline,Automatic,FWD,33.5,1.6L
 Nissan,2019 Nissan Rogue SV,2019,16980.0,82248.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2019 Nissan Rogue Sport SL,2019,17597.0,56638.0,Gasoline,Automatic,AWD,27.0,2.0L
-Nissan,2023 Nissan Sentra SV,2023,16995.0,35452.0,Gasoline,Other,FWD,34.0,2.0L
-Nissan,2019 Nissan Murano Platinum,2019,19750.0,74656.0,Gasoline,Other,AWD,24.0,3.5L
 Nissan,2023 Nissan Murano S Intelligent AWD,2023,22815.0,17612.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2024 Nissan ARIYA ENGAGE+,2024,29240.0,15012.0,Electric,Automatic,AWD,25.5,Electric
 Nissan,2023 Nissan ARIYA EVOLVE+,2023,27958.0,10174.0,Electric,Automatic,AWD,25.5,Electric
-Nissan,2023 Nissan Rogue SV,2023,27299.0,7226.0,Gasoline,Other,AWD,31.5,1.5L
 Nissan,2023 Nissan Frontier PRO-4X,2023,36488.0,18550.0,Gasoline,Automatic,4WD,19.5,3.8L
 Nissan,2019 Nissan Rogue Sport SV,2019,16591.0,87599.0,Gasoline,Automatic,FWD,28.5,2.0L
 Nissan,2023 Nissan ARIYA PLATINUM+,2023,29995.0,15155.0,Electric,Automatic,AWD,25.5,Electric
@@ -2483,9 +2390,6 @@ Nissan,2021 Nissan Rogue Sport SV,2021,20363.0,43531.0,Gasoline,Automatic,AWD,27
 Nissan,2024 Nissan Pathfinder SV,2024,32910.0,29017.0,Gasoline,Automatic,4WD,24.0,3.5L
 Nissan,2023 Nissan Rogue SL,2023,22499.0,60590.0,Gasoline,Automatic,AWD,31.0,1.5L
 Nissan,2020 Nissan Murano SV FWD,2020,12450.0,101798.0,Gasoline,Automatic,FWD,24.0,3.5L
-Nissan,2024 Nissan Sentra SV,2024,19999.0,15762.0,Gasoline,Other,FWD,35.0,2.0L
-Nissan,2024 Nissan Murano SL FWD,2024,35973.0,2057.0,Gasoline,Other,FWD,24.0,3.5L
-Nissan,2023 Nissan Altima 2.5 SV,2023,24212.0,11363.0,Gasoline,Other,FWD,33.0,2.5L
 Nissan,2018 Nissan Rogue Sport S,2018,17516.0,38884.0,Gasoline,Automatic,FWD,28.5,2.0L
 Nissan,2021 Nissan Rogue Sport S,2021,17792.0,47387.0,Gasoline,Automatic,FWD,28.5,2.0L
 Nissan,2016 Nissan Pathfinder SL,2016,14795.0,145463.0,Gasoline,Automatic,4WD,22.5,3.5L
@@ -2501,7 +2405,6 @@ Nissan,2022 Nissan Rogue S,2022,26012.0,9728.0,Gasoline,Automatic,AWD,31.5,1.5L
 Nissan,2022 Nissan Altima SR Intelligent AWD,2022,22100.0,30267.0,Gasoline,Automatic,AWD,30.0,2.5L
 Nissan,2023 Nissan Pathfinder Platinum 4WD,2023,38995.0,22268.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2013 Nissan Xterra PRO-4X,2013,15500.0,82174.0,Gasoline,Automatic,4WD,17.5,4.0L
-Nissan,2022 Nissan Rogue Sport SV,2022,20499.0,35199.0,Gasoline,Other,AWD,27.0,2.0L
 Nissan,2020 Nissan Rogue Sport S,2020,18600.0,31098.0,Gasoline,Automatic,AWD,27.0,2.0L
 Nissan,2009 Nissan Rogue S,2009,7500.0,61673.0,Gasoline,Automatic,FWD,24.5,2.5L
 Nissan,2019 Nissan Murano Platinum,2019,26600.0,28592.0,Gasoline,Automatic,AWD,24.0,3.5L
@@ -2516,34 +2419,21 @@ Nissan,2019 Nissan Rogue S,2019,12499.0,77696.0,Gasoline,Automatic,FWD,29.5,2.5L
 Nissan,2021 Nissan Altima SR Intelligent AWD,2021,18495.0,62489.0,Gasoline,Automatic,AWD,30.0,2.5L
 Nissan,2020 Nissan Murano S Intelligent AWD,2020,17987.0,58763.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2022 Nissan Rogue Sport SL,2022,24823.0,9957.0,Gasoline,Automatic,AWD,27.0,2.0L
-Nissan,2020 Nissan Altima 2.5 SL,2020,21299.0,34264.0,Gasoline,Other,AWD,31.0,2.5L
-Nissan,2020 Nissan Rogue Sport SV,2020,16299.0,66611.0,Gasoline,Other,FWD,28.5,2.0L
-Nissan,2015 Nissan Rogue Select S,2015,7999.0,105341.0,Gasoline,Other,AWD,24.5,2.5L
-Nissan,2017 Nissan Rogue Sport SL,2017,16399.0,53544.0,Gasoline,Other,AWD,27.0,2.0L
 Nissan,2023 Nissan Altima 2.5 SV,2023,16495.0,59753.0,Gasoline,Automatic,FWD,33.0,2.5L
 Nissan,2017 Nissan Murano Platinum,2017,13985.0,105246.0,Gasoline,Automatic,AWD,25.5,3.5L
-Nissan,2023 Nissan Altima 2.5 SV,2023,21233.0,57627.0,Gasoline,Other,FWD,33.0,2.5L
-Nissan,2023 Nissan Altima 2.5 SV,2023,24137.0,12558.0,Gasoline,Other,FWD,33.0,2.5L
-Nissan,2021 Nissan Kicks SV,2021,18022.0,43879.0,Gasoline,Other,FWD,33.5,1.6L
-Nissan,2024 Nissan Murano SL FWD,2024,34900.0,107945.0,Gasoline,Other,FWD,24.0,3.5L
 Nissan,2022 Nissan Altima 2.5 SV,2022,20430.0,24508.0,Gasoline,Automatic,FWD,32.0,2.5L
-Nissan,2024 Nissan Versa 1.6 S,2024,18995.0,25156.0,Gasoline,Other,FWD,36.0,1.6L
 Nissan,2017 Nissan Frontier S,2017,11450.0,89943.0,Gasoline,Automatic,RWD,19.5,2.5L
 Nissan,2020 Nissan Murano Platinum,2020,21143.0,84933.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2023 Nissan Frontier PRO-4X,2023,38795.0,14523.0,Gasoline,Automatic,4WD,19.5,3.8L
 Nissan,2014 Nissan Xterra PRO-4X,2014,16995.0,72428.0,Gasoline,Automatic,4WD,17.5,4.0L
 Nissan,2020 Nissan Rogue Sport S,2020,15992.0,75771.0,Gasoline,Automatic,AWD,27.0,2.0L
 Nissan,2018 Nissan Rogue Sport S,2018,15880.0,47970.0,Gasoline,Automatic,AWD,27.0,2.0L
-Nissan,2022 Nissan Rogue SV,2022,25000.0,35731.0,Gasoline,Other,AWD,31.5,1.5L
 Nissan,2023 Nissan Pathfinder Rock Creek 4WD,2023,36000.0,2840.0,Gasoline,Automatic,4WD,21.5,3.5L
-Nissan,2020 Nissan Pathfinder Platinum 4WD,2020,23500.0,65073.0,Gasoline,Other,4WD,22.5,3.5L
 Nissan,2024 Nissan Kicks SV,2024,22797.0,2203.0,Gasoline,Automatic,FWD,33.5,1.6L
-Nissan,2024 Nissan Murano Platinum Intelligent AWD,2024,37799.0,2124.0,Gasoline,Other,AWD,24.0,3.5L
 Nissan,2012 Nissan Altima 2.5 S,2012,7499.0,86089.0,Gasoline,Automatic,FWD,27.5,2.5L
 Nissan,2021 Nissan Versa 1.6 SV,2021,13895.0,97027.0,Gasoline,Automatic,FWD,36.0,1.6L
 Nissan,2021 Nissan Rogue SV,2021,19447.0,65223.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2024 Nissan Pathfinder S FWD,2024,35845.0,5215.0,Gasoline,Automatic,FWD,23.5,3.5L
-Nissan,2023 Nissan Murano SV FWD,2023,23558.0,44161.0,Gasoline,Other,FWD,24.0,3.5L
 Nissan,2018 Nissan Frontier S,2018,8950.0,136192.0,Gasoline,Automatic,RWD,19.5,2.5L
 Nissan,2019 Nissan Murano SL,2019,19822.0,67614.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2020 Nissan Rogue Sport S,2020,17695.0,81343.0,Gasoline,Automatic,FWD,28.5,2.0L
@@ -2551,11 +2441,7 @@ Nissan,2023 Nissan Kicks SR,2023,21495.0,33849.0,Gasoline,Automatic,FWD,33.5,1.6
 Nissan,2022 Nissan Kicks SV,2022,19795.0,36352.0,Gasoline,Automatic,FWD,33.5,1.6L
 Nissan,2023 Nissan Versa S,2023,13999.0,28363.0,Gasoline,Automatic,FWD,36.0,1.6L
 Nissan,2020 Nissan Rogue S,2020,18444.0,50749.0,Gasoline,Automatic,AWD,28.5,2.5L
-Nissan,2019 Nissan Pathfinder S,2019,20977.0,41055.0,Gasoline,Other,4WD,22.5,3.5L
 Nissan,2020 Nissan Titan Platinum Reserve,2020,33500.0,48109.0,Gasoline,Automatic,4WD,18.0,5.6L
-Nissan,2024 Nissan Kicks SR,2024,22799.0,3316.0,Gasoline,Other,FWD,33.5,1.6L
-Nissan,2024 Nissan Rogue SV,2024,28998.0,11475.0,Gasoline,Other,AWD,31.5,1.5L
-Nissan,2018 Nissan Rogue Sport S,2018,13999.0,75256.0,Gasoline,Other,AWD,27.0,2.0L
 Nissan,2022 Nissan Pathfinder SL,2022,30012.0,44174.0,Gasoline,Automatic,4WD,24.0,3.5L
 Nissan,2020 Nissan Kicks SV,2020,16397.0,43324.0,Gasoline,Automatic,FWD,33.5,1.6L
 Nissan,2024 Nissan Kicks S,2024,21000.0,15248.0,Gasoline,Automatic,FWD,33.5,1.6L
@@ -2567,22 +2453,13 @@ Nissan,2017 Nissan Murano Platinum,2017,20225.0,43662.0,Gasoline,Automatic,AWD,2
 Nissan,2019 Nissan Murano SV,2019,19795.0,54326.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2022 Nissan Pathfinder SV 4WD,2022,28680.0,39203.0,Gasoline,Automatic,4WD,24.0,3.5L
 Nissan,2014 Nissan Rogue Select S,2014,5800.0,144227.0,Gasoline,Automatic,FWD,25.5,2.5L
-Nissan,2023 Nissan Murano SL,2023,24598.0,69798.0,Gasoline,Other,FWD,24.0,3.5L
-Nissan,2021 Nissan Versa 1.6 S,2021,13177.0,80820.0,Gasoline,Other,FWD,36.0,1.6L
 Nissan,2024 Nissan Versa 1.6 S,2024,17000.0,19365.0,Gasoline,Automatic,FWD,36.0,1.6L
-Nissan,2024 Nissan Rogue SV,2024,29999.0,4195.0,Gasoline,Other,AWD,31.5,1.5L
 Nissan,2023 Nissan Pathfinder Platinum 4WD,2023,35888.0,20836.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2023 Nissan Rogue Platinum,2023,28472.0,21061.0,Gasoline,Automatic,AWD,31.0,1.5L
-Nissan,2024 Nissan Altima 2.5 SV,2024,23952.0,25242.0,Gasoline,Other,FWD,33.0,2.5L
 Nissan,2018 Nissan Rogue Sport S,2018,8995.0,132655.0,Gasoline,Automatic,FWD,28.5,2.0L
 Nissan,2018 Nissan Armada SL,2018,21831.0,77178.0,Gasoline,Automatic,4WD,15.5,5.6L
 Nissan,2022 Nissan Rogue Sport S,2022,20395.0,53594.0,Gasoline,Automatic,AWD,27.0,2.0L
-Nissan,2023 Nissan Altima SR FWD,2023,21863.0,58564.0,Gasoline,Other,FWD,32.0,2.5L
-Nissan,2023 Nissan Murano SV Intelligent AWD,2023,22999.0,47765.0,Gasoline,Other,AWD,24.0,3.5L
 Nissan,2018 Nissan Murano SL,2018,14500.0,101763.0,Gasoline,Automatic,AWD,24.5,3.5L
-Nissan,2023 Nissan Murano SL Intelligent AWD,2023,26220.0,32114.0,Gasoline,Other,AWD,24.0,3.5L
-Nissan,2023 Nissan Kicks S,2023,19488.0,21541.0,Gasoline,Other,FWD,33.5,1.6L
-Nissan,2021 Nissan Versa 1.6 SV,2021,17079.0,29836.0,Gasoline,Other,FWD,36.0,1.6L
 Nissan,2021 Nissan Rogue Sport SL,2021,21926.0,20869.0,Gasoline,Automatic,AWD,27.0,2.0L
 Nissan,2014 Nissan Altima 2.5 SV,2014,6300.0,127000.0,Gasoline,Automatic,FWD,32.5,2.5L
 Nissan,2017 Nissan Rogue S,2017,12995.0,104342.0,Gasoline,Automatic,FWD,29.5,2.5L
@@ -2594,11 +2471,7 @@ Nissan,2020 Nissan Rogue S,2020,18671.0,36820.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2015 Nissan Murano SL,2015,12900.0,105091.0,Gasoline,Automatic,AWD,24.5,3.5L
 Nissan,2021 Nissan Murano Platinum,2021,23600.0,62511.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2023 Nissan Armada SL 4WD,2023,38500.0,39529.0,Gasoline,Automatic,4WD,15.5,5.6L
-Nissan,2024 Nissan Rogue SL,2024,28980.0,7598.0,Gasoline,Other,FWD,32.5,1.5L
-Nissan,2022 Nissan Rogue Sport SL,2022,26555.0,19229.0,Gasoline,Other,AWD,27.0,2.0L
 Nissan,2023 Nissan Altima 2.5 SV,2023,21705.0,21598.0,Gasoline,Automatic,FWD,33.0,2.5L
-Nissan,2017 Nissan Murano Platinum,2017,15697.0,96140.0,Gasoline,Other,AWD,24.5,3.5L
-Nissan,2021 Nissan Versa 1.6 S,2021,11490.0,85483.0,Gasoline,Other,FWD,36.0,1.6L
 Nissan,2022 Nissan Murano S,2022,19926.0,54039.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2021 Nissan Versa 1.6 SV,2021,14795.0,90476.0,Gasoline,Automatic,FWD,36.0,1.6L
 Nissan,2017 Nissan Murano SL,2017,12926.0,105059.0,Gasoline,Automatic,AWD,24.5,3.5L
@@ -2608,15 +2481,12 @@ Nissan,2019 Nissan Rogue Sport S,2019,13499.0,65993.0,Gasoline,Automatic,FWD,28.
 Nissan,2019 Nissan Rogue Sport SL,2019,15495.0,106173.0,Gasoline,Automatic,FWD,28.5,2.0L
 Nissan,2017 Nissan Rogue Sport S,2017,14424.0,71005.0,Gasoline,Automatic,AWD,27.0,2.0L
 Nissan,2022 Nissan Kicks SV,2022,19189.0,43782.0,Gasoline,Automatic,FWD,33.5,1.6L
-Nissan,2021 Nissan Versa SV,2021,15000.0,50272.0,Gasoline,Other,FWD,36.0,1.6L
 Nissan,2022 Nissan Rogue Sport SL,2022,19815.0,43972.0,Gasoline,Automatic,AWD,27.0,2.0L
 Nissan,2020 Nissan Versa 1.6 S,2020,10295.0,107477.0,Gasoline,Automatic,FWD,36.0,1.6L
-Nissan,2024 Nissan Rogue SL,2024,35000.0,6232.0,Gasoline,Other,AWD,31.0,1.5L
 Nissan,2022 Nissan Versa 1.6 S,2022,16995.0,17851.0,Gasoline,Automatic,FWD,36.0,1.6L
 Nissan,2015 Nissan Versa 1.6 SV,2015,6995.0,107557.0,Gasoline,Automatic,FWD,35.5,1.6L
 Nissan,2018 Nissan Murano Platinum,2018,20928.0,41833.0,Gasoline,Automatic,AWD,24.5,3.5L
 Nissan,2018 Nissan Murano Platinum,2018,18228.0,73855.0,Gasoline,Automatic,AWD,24.5,3.5L
-Nissan,2019 Nissan Murano Platinum,2019,14862.0,92750.0,Gasoline,Other,AWD,24.0,3.5L
 Nissan,2015 Nissan Versa 1.6 S+,2015,7985.0,92022.0,Gasoline,Automatic,FWD,35.5,1.6L
 Nissan,2015 Nissan Murano SV,2015,14500.0,73680.0,Gasoline,Automatic,AWD,24.5,3.5L
 Nissan,2023 Nissan Versa 1.6 SV,2023,16597.0,38098.0,Gasoline,Automatic,FWD,36.0,1.6L
@@ -2627,48 +2497,32 @@ Nissan,2015 Nissan Murano Platinum,2015,16037.0,76810.0,Gasoline,Automatic,AWD,2
 Nissan,2022 Nissan Altima S FWD,2022,19475.0,25124.0,Gasoline,Automatic,FWD,33.5,2.5L
 Nissan,2022 Nissan Altima 2.5 SV,2022,21777.0,33805.0,Gasoline,Automatic,AWD,31.0,2.5L
 Nissan,2024 Nissan Pathfinder SV 4WD,2024,33500.0,29313.0,Gasoline,Automatic,4WD,24.0,3.5L
-Nissan,2024 Nissan Versa 1.6 S,2024,21000.0,681.0,Gasoline,Other,FWD,36.0,1.6L
 Nissan,2015 Nissan Rogue Select S,2015,12750.0,36556.0,Gasoline,Automatic,FWD,25.5,2.5L
 Nissan,2023 Nissan Rogue Platinum,2023,26472.0,17788.0,Gasoline,Automatic,AWD,31.0,1.5L
-Nissan,2022 Nissan Kicks SV,2022,19299.0,30360.0,Gasoline,Other,FWD,33.5,1.6L
-Nissan,2024 Nissan Sentra SV,2024,18595.0,21643.0,Gasoline,Other,FWD,35.0,2.0L
 Nissan,2019 Nissan Kicks SV,2019,13991.0,60949.0,Gasoline,Automatic,FWD,33.5,1.6L
 Nissan,2024 Nissan Pathfinder Rock Creek,2024,38411.0,11676.0,Gasoline,Automatic,4WD,21.5,3.5L
-Nissan,2021 Nissan Versa 1.6 SV,2021,15397.0,66304.0,Gasoline,Other,FWD,36.0,1.6L
-Nissan,2016 Nissan Versa 1.6 SV,2016,6500.0,92090.0,Gasoline,Other,FWD,35.5,1.6L
 Nissan,2020 Nissan Sentra SV,2020,17900.0,45107.0,Gasoline,Automatic,FWD,34.0,2.0L
-Nissan,2020 Nissan Altima 2.5 SV,2020,20295.0,18039.0,Gasoline,Other,FWD,33.5,2.5L
 Nissan,2022 Nissan Rogue SV,2022,22526.0,57154.0,Gasoline,Automatic,AWD,31.5,1.5L
 Nissan,2021 Nissan Altima 2.5 SV,2021,18995.0,95494.0,Gasoline,Automatic,FWD,32.0,2.5L
-Nissan,2021 Nissan Kicks SV,2021,19645.0,25646.0,Gasoline,Other,FWD,33.5,1.6L
 Nissan,2023 Nissan Pathfinder Rock Creek,2023,34595.0,17311.0,Gasoline,Automatic,4WD,21.5,3.5L
-Nissan,2023 Nissan Kicks SV,2023,20520.0,9823.0,Gasoline,Other,FWD,33.5,1.6L
 Nissan,2023 Nissan Rogue SV,2023,25495.0,9707.0,Gasoline,Automatic,AWD,31.5,1.5L
 Nissan,2019 Nissan Versa 1.6 SV,2019,11499.0,43242.0,Gasoline,Automatic,FWD,35.0,1.6L
 Nissan,2024 Nissan Rogue SV,2024,28291.0,738.0,Gasoline,Automatic,AWD,31.5,1.5L
 Nissan,2022 Nissan Rogue SV,2022,24083.0,43987.0,Gasoline,Automatic,AWD,31.5,1.5L
 Nissan,2022 Nissan Altima 2.5 SV,2022,17995.0,30292.0,Gasoline,Automatic,AWD,31.0,2.5L
-Nissan,2022 Nissan Rogue Sport SV,2022,19564.0,84914.0,Gasoline,Other,AWD,27.0,2.0L
 Nissan,2015 Nissan Versa 1.6 SL,2015,8428.0,82663.0,Gasoline,Automatic,FWD,35.5,1.6L
-Nissan,2024 Nissan Kicks SR,2024,23699.0,360.0,Gasoline,Other,FWD,33.5,1.6L
 Nissan,2023 Nissan Pathfinder SL FWD,2023,33199.0,32259.0,Gasoline,Automatic,FWD,23.5,3.5L
 Nissan,2018 Nissan Rogue S,2018,10993.0,117434.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2021 Nissan Versa 1.6 SV,2021,18995.0,12965.0,Gasoline,Automatic,FWD,36.0,1.6L
-Nissan,2023 Nissan Rogue SV,2023,30870.0,11138.0,Gasoline,Other,FWD,33.5,1.5L
-Nissan,2023 Nissan Murano SL Intelligent AWD,2023,30618.0,10574.0,Gasoline,Other,AWD,24.0,3.5L
 Nissan,2022 Nissan Altima 2.5 SV,2022,15597.0,70274.0,Gasoline,Automatic,FWD,32.0,2.5L
 Nissan,2022 Nissan Altima 2.5 SR,2022,17726.0,62729.0,Gasoline,Automatic,FWD,32.0,2.5L
 Nissan,2023 Nissan Altima 2.5 SV,2023,23195.0,50952.0,Gasoline,Automatic,FWD,33.0,2.5L
 Nissan,2022 Nissan Altima S FWD,2022,20195.0,55448.0,Gasoline,Automatic,FWD,33.5,2.5L
 Nissan,2024 Nissan Versa 1.6 SR,2024,19895.0,17381.0,Gasoline,Automatic,FWD,36.0,1.6L
-Nissan,2023 Nissan Kicks S,2023,19685.0,7821.0,Gasoline,Other,FWD,33.5,1.6L
 Nissan,2021 Nissan Versa 1.6 SV,2021,13889.0,63219.0,Gasoline,Automatic,FWD,36.0,1.6L
 Nissan,2022 Nissan Pathfinder SL 4WD,2022,32230.0,17244.0,Gasoline,Automatic,4WD,24.0,3.5L
-Nissan,2024 Nissan Altima 2.5 SR,2024,24498.0,27696.0,Gasoline,Other,FWD,32.0,2.5L
-Nissan,2020 Nissan Rogue Sport S,2020,11995.0,105762.0,Gasoline,Other,FWD,28.5,2.0L
 Nissan,2016 Nissan Pathfinder SV,2016,10103.0,129198.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2023 Nissan Pathfinder Rock Creek 4WD,2023,33472.0,15544.0,Gasoline,Automatic,4WD,21.5,3.5L
-Nissan,2020 Nissan Rogue Sport SV,2020,17399.0,68183.0,Gasoline,Other,FWD,28.5,2.0L
 Nissan,2024 Nissan Z NISMO Auto,2024,54999.0,1407.0,Gasoline,Automatic,RWD,20.5,3.0L
 Nissan,2023 Nissan Altima 2.5 SV,2023,21495.0,18787.0,Gasoline,Automatic,AWD,31.0,2.5L
 Nissan,2020 Nissan Altima S FWD,2020,13495.0,114813.0,Gasoline,Automatic,FWD,33.5,2.5L
@@ -2683,10 +2537,7 @@ Nissan,2024 Nissan Altima SR FWD,2024,24995.0,10587.0,Gasoline,Automatic,FWD,32.
 Nissan,2020 Nissan Pathfinder Platinum,2020,22877.0,80396.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2022 Nissan Versa 1.6 SV,2022,14995.0,49368.0,Gasoline,Automatic,FWD,36.0,1.6L
 Nissan,2023 Nissan Versa 1.6 SV,2023,16377.0,55870.0,Gasoline,Automatic,FWD,36.0,1.6L
-Nissan,2021 Nissan Kicks S,2021,15903.0,21511.0,Gasoline,Other,FWD,33.5,1.6L
 Nissan,2020 Nissan Rogue Sport S,2020,11995.0,84622.0,Gasoline,Automatic,AWD,27.0,2.0L
-Nissan,2023 Nissan Versa 1.6 SV,2023,16972.0,38179.0,Gasoline,Other,FWD,36.0,1.6L
-Nissan,2017 Nissan Versa 1.6 SV,2017,7495.0,107577.0,Gasoline,Other,FWD,35.0,1.6L
 Nissan,2024 Nissan Versa 1.6 SV,2024,19995.0,12123.0,Gasoline,Automatic,FWD,36.0,1.6L
 Nissan,2018 Nissan Armada Platinum,2018,23972.0,54163.0,Gasoline,Automatic,4WD,15.5,5.6L
 Nissan,2021 Nissan Rogue Sport S,2021,15995.0,89564.0,Gasoline,Automatic,AWD,27.0,2.0L
@@ -2698,14 +2549,12 @@ Nissan,2022 Nissan Rogue SV,2022,28990.0,26218.0,Gasoline,Automatic,AWD,31.5,1.5
 Nissan,2023 Nissan Pathfinder Platinum FWD,2023,35060.0,40205.0,Gasoline,Automatic,FWD,23.5,3.5L
 Nissan,2023 Nissan Kicks SR,2023,21995.0,14306.0,Gasoline,Automatic,FWD,33.5,1.6L
 Nissan,2023 Nissan Rogue SV,2023,24495.0,17188.0,Gasoline,Automatic,AWD,31.5,1.5L
-Nissan,2013 Nissan Altima 3.5 SL,2013,9724.0,84025.0,Gasoline,Other,FWD,26.5,3.5L
 Nissan,2014 Nissan Murano LE,2014,10900.0,86201.0,Gasoline,Automatic,AWD,20.5,3.5L
 Nissan,2019 Nissan Rogue Sport SL,2019,16995.0,80843.0,Gasoline,Automatic,AWD,27.0,2.0L
 Nissan,2018 Nissan Rogue SL,2018,11999.0,101831.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2022 Nissan Sentra SR,2022,18905.0,39670.0,Gasoline,Automatic,FWD,32.5,2.0L
 Nissan,2021 Nissan Rogue SV,2021,20425.0,51884.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2023 Nissan Pathfinder SL 4WD,2023,35000.0,28634.0,Gasoline,Automatic,4WD,22.5,3.5L
-Nissan,2024 Nissan Versa 1.6 SV,2024,21000.0,408.0,Gasoline,Other,FWD,36.0,1.6L
 Nissan,2023 Nissan Kicks SV,2023,18133.0,48535.0,Gasoline,Automatic,FWD,33.5,1.6L
 Nissan,2024 Nissan Kicks SR,2024,22395.0,6118.0,Gasoline,Automatic,FWD,33.5,1.6L
 Nissan,2017 Nissan Rogue Sport S,2017,15000.0,71513.0,Gasoline,Automatic,AWD,27.0,2.0L
@@ -2713,21 +2562,16 @@ Nissan,2022 Nissan Rogue Sport S,2022,19695.0,52554.0,Gasoline,Automatic,AWD,27.
 Nissan,2012 Nissan Xterra S,2012,10890.0,125196.0,Gasoline,Automatic,4WD,17.5,4.0L
 Nissan,2022 Nissan Rogue Sport SV,2022,21775.0,24260.0,Gasoline,Automatic,FWD,28.5,2.0L
 Nissan,2014 Nissan Pathfinder Platinum,2014,9994.0,115185.0,Gasoline,Automatic,4WD,22.0,3.5L
-Nissan,2021 Nissan Versa 1.6 SV,2021,15300.0,52339.0,Gasoline,Other,FWD,36.0,1.6L
 Nissan,2018 Nissan Altima 2.5 S,2018,15400.0,66025.0,Gasoline,Automatic,FWD,32.5,2.5L
 Nissan,2021 Nissan Rogue Sport SL,2021,24395.0,37483.0,Gasoline,Automatic,AWD,27.0,2.0L
-Nissan,2015 Nissan Frontier SV,2015,9249.0,130065.0,Gasoline,Other,RWD,25.5,2.5L
-Nissan,2024 Nissan Sentra SV,2024,21800.0,19482.0,Gasoline,Other,FWD,35.0,2.0L
 Nissan,2023 Nissan Pathfinder Platinum,2023,36795.0,34847.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2019 Nissan Kicks SR,2019,11995.0,99704.0,Gasoline,Automatic,FWD,33.5,1.6L
 Nissan,2024 Nissan Pathfinder S,2024,33789.0,22963.0,Gasoline,Automatic,4WD,24.0,3.5L
-Nissan,2024 Nissan Altima SR Intelligent AWD,2024,26500.0,5030.0,Gasoline,Other,AWD,31.0,2.5L
 Nissan,2022 Nissan Altima 2.5 SV,2022,17985.0,58671.0,Gasoline,Automatic,FWD,32.0,2.5L
 Nissan,2023 Nissan Rogue SL,2023,23150.0,53916.0,Gasoline,Automatic,AWD,31.0,1.5L
 Nissan,2023 Nissan Murano SV Intelligent AWD,2023,21791.0,59599.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2024 Nissan Rogue S,2024,22459.0,37465.0,Gasoline,Automatic,AWD,31.5,1.5L
 Nissan,2008 Nissan Pathfinder SE,2008,6928.0,107858.0,Gasoline,Automatic,4WD,17.0,4.0L
-Nissan,2012 Nissan Altima 2.5 S,2012,4490.0,145123.0,Gasoline,Other,FWD,32.0,2.5L
 Nissan,2024 Nissan Altima 2.5 SV,2024,19995.0,36723.0,Gasoline,Automatic,FWD,33.0,2.5L
 Nissan,2015 Nissan Pathfinder SL,2015,6500.0,162035.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2024 Nissan Pathfinder SV,2024,31900.0,21727.0,Gasoline,Automatic,4WD,24.0,3.5L
@@ -2768,7 +2612,6 @@ Nissan,2020 Nissan Pathfinder Platinum 4WD,2020,23495.0,69589.0,Gasoline,Automat
 Nissan,2004 Nissan Murano SL,2004,3999.0,136241.0,Gasoline,Automatic,AWD,21.5,3.5L
 Nissan,2023 Nissan Pathfinder SL,2023,33565.0,22476.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2011 Nissan Rogue SV,2011,5999.0,113869.0,Gasoline,Automatic,AWD,24.0,2.5L
-Nissan,2014 Nissan Pathfinder SL,2014,8998.0,143449.0,Gasoline,Other,4WD,22.0,3.5L
 Nissan,2014 Nissan Pathfinder SV,2014,6950.0,126581.0,Gasoline,Automatic,4WD,22.0,3.5L
 Nissan,2023 Nissan Frontier S,2023,22450.0,33537.0,Gasoline,Automatic,RWD,21.0,3.8L
 Nissan,2020 Nissan Pathfinder SL 4WD,2020,20495.0,43825.0,Gasoline,Automatic,4WD,23.5,3.5L
@@ -2779,8 +2622,6 @@ Nissan,2018 Nissan Pathfinder Platinum,2018,19495.0,74101.0,Gasoline,Automatic,4
 Nissan,2018 Nissan Pathfinder S,2018,11499.0,80541.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2022 Nissan Pathfinder SL 4WD,2022,32059.0,38817.0,Gasoline,Automatic,4WD,24.0,3.5L
 Nissan,2019 Nissan Murano Platinum,2019,19597.0,76928.0,Gasoline,Automatic,AWD,24.0,3.5L
-Nissan,2025 Nissan Altima SR FWD,2025,26500.0,4083.0,Gasoline,Other,FWD,32.0,2.5L
-Nissan,2024 Nissan Altima SR Intelligent AWD,2024,26500.0,1441.0,Gasoline,Other,AWD,31.0,2.5L
 Nissan,2022 Nissan Pathfinder SV 4WD,2022,29999.0,13061.0,Gasoline,Automatic,4WD,24.0,3.5L
 Nissan,2022 Nissan Frontier S,2022,23399.0,48473.0,Gasoline,Automatic,4WD,19.5,3.8L
 Nissan,2023 Nissan Pathfinder SL 4WD,2023,30999.0,32925.0,Gasoline,Automatic,4WD,22.5,3.5L
@@ -2795,19 +2636,13 @@ Nissan,2019 Nissan Pathfinder S,2019,19395.0,83171.0,Gasoline,Automatic,4WD,22.5
 Nissan,2021 Nissan Rogue Platinum,2021,25490.0,40027.0,Gasoline,Automatic,AWD,28.5,2.5L
 Nissan,2022 Nissan Rogue SV,2022,22875.0,44046.0,Gasoline,Automatic,AWD,31.5,1.5L
 Nissan,2020 Nissan Rogue SL,2020,17999.0,51011.0,Gasoline,Automatic,AWD,28.5,2.5L
-Nissan,2020 Nissan Rogue SV,2020,16116.0,97279.0,Gasoline,Other,AWD,28.5,2.5L
-Nissan,2023 Nissan Rogue SL,2023,24520.0,54634.0,Gasoline,Other,FWD,32.5,1.5L
 Nissan,2023 Nissan Frontier SV,2023,28472.0,18918.0,Gasoline,Automatic,4WD,19.5,3.8L
-Nissan,2024 Nissan Kicks SV,2024,20799.0,10377.0,Gasoline,Other,FWD,33.5,1.6L
 Nissan,2024 Nissan Altima S FWD,2024,20310.0,24737.0,Gasoline,Automatic,FWD,33.0,2.5L
 Nissan,2014 Nissan Altima 2.5 S,2014,5999.0,144131.0,Gasoline,Automatic,FWD,32.5,2.5L
 Nissan,2023 Nissan Kicks SV,2023,19718.0,6591.0,Gasoline,Automatic,FWD,33.5,1.6L
-Nissan,2017 Nissan Murano Platinum,2017,14905.0,97633.0,Gasoline,Other,AWD,25.5,3.5L
 Nissan,2024 Nissan Pathfinder Platinum 4WD,2024,45968.0,7277.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2015 Nissan Frontier S,2015,9950.0,108996.0,Gasoline,Automatic,RWD,20.0,2.5L
 Nissan,2022 Nissan Leaf SV PLUS Hatchback,2022,16780.0,14810.0,Electric,Automatic,FWD,25.5,Electric
-Nissan,2018 Nissan Pathfinder SL,2018,13490.0,82201.0,Gasoline,Other,4WD,26.0,3.5L
-Nissan,2023 Nissan Rogue S,2023,23956.0,24054.0,Gasoline,Other,AWD,31.5,1.5L
 Nissan,2021 Nissan Armada SL,2021,36995.0,27637.0,Gasoline,Automatic,4WD,15.5,5.6L
 Nissan,2021 Nissan Murano SL Intelligent AWD,2021,25495.0,49926.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2015 Nissan Altima 2.5 SV,2015,9849.0,124684.0,Gasoline,Automatic,FWD,32.5,2.5L
@@ -2818,39 +2653,30 @@ Nissan,2022 Nissan Frontier S,2022,20950.0,52217.0,Gasoline,Automatic,RWD,21.0,3
 Nissan,2022 Nissan Titan S,2022,34915.0,13092.0,Gasoline,Automatic,4WD,18.0,5.6L
 Nissan,2022 Nissan Pathfinder Platinum 4WD,2022,31399.0,53241.0,Gasoline,Automatic,4WD,22.5,3.5L
 Nissan,2022 Nissan Frontier SV,2022,27972.0,37954.0,Gasoline,Automatic,4WD,19.5,3.8L
-Nissan,2023 Nissan Rogue SV,2023,25299.0,17195.0,Gasoline,Other,AWD,31.5,1.5L
 Nissan,2022 Nissan Rogue Platinum,2022,25995.0,27897.0,Gasoline,Automatic,AWD,31.0,1.5L
 Nissan,2022 Nissan Altima SR FWD,2022,17178.0,66325.0,Gasoline,Automatic,FWD,32.0,2.5L
 Nissan,2015 Nissan Murano Platinum,2015,13900.0,97899.0,Gasoline,Automatic,AWD,24.5,3.5L
 Nissan,2021 Nissan Kicks SR,2021,17997.0,47710.0,Gasoline,Automatic,FWD,33.5,1.6L
-Nissan,2014 Nissan Pathfinder Platinum,2014,10990.0,97610.0,Gasoline,Other,4WD,25.0,3.5L
 Nissan,2024 Nissan Leaf SV PLUS,2024,21200.0,3157.0,Electric,Automatic,FWD,25.5,Electric
-Nissan,2021 Nissan Rogue Sport SV,2021,21598.0,21148.0,Gasoline,Other,AWD,27.0,2.0L
 Nissan,2017 Nissan Rogue S,2017,12500.0,93972.0,Gasoline,Automatic,FWD,29.5,2.5L
 Nissan,2023 Nissan Armada SL 2WD,2023,33975.0,69393.0,Gasoline,Automatic,RWD,16.5,5.6L
 Nissan,2014 Nissan Frontier SV,2014,20895.0,75390.0,Gasoline,Automatic,4WD,18.0,4.0L
 Nissan,2023 Nissan Rogue S,2023,23995.0,4984.0,Gasoline,Automatic,AWD,31.5,1.5L
-Nissan,2019 Nissan Rogue Sport SV,2019,16595.0,82134.0,Gasoline,Other,AWD,27.0,2.0L
 Nissan,2016 Nissan Murano SL,2016,13990.0,96799.0,Gasoline,Automatic,AWD,24.5,3.5L
 Nissan,2007 Nissan Murano SL,2007,6900.0,71510.0,Gasoline,Automatic,AWD,22.0,3.5L
 Nissan,2022 Nissan Rogue Sport SV,2022,21788.0,57721.0,Gasoline,Automatic,AWD,27.0,2.0L
-Nissan,2024 Nissan Rogue SV,2024,31000.0,7690.0,Gasoline,Other,AWD,31.5,1.5L
 Nissan,2024 Nissan Titan SV,2024,39899.0,7224.0,Gasoline,Automatic,4WD,18.0,5.6L
-Nissan,2024 Nissan Kicks SV,2024,20799.0,3817.0,Gasoline,Other,FWD,33.5,1.6L
-Nissan,2022 Nissan Rogue SV,2022,23299.0,43049.0,Gasoline,Other,AWD,31.5,1.5L
 Nissan,2024 Nissan Frontier SV,2024,28595.0,20476.0,Gasoline,Automatic,RWD,21.0,3.8L
 Nissan,2023 Nissan Murano SV Intelligent AWD,2023,25539.0,21567.0,Gasoline,Automatic,AWD,24.0,3.5L
 Nissan,2022 Nissan Frontier SV,2022,25917.0,58948.0,Gasoline,Automatic,RWD,21.0,3.8L
 Nissan,2018 Nissan Kicks SV,2018,18495.0,28253.0,Gasoline,Automatic,FWD,33.5,1.6L
 Nissan,2021 Nissan Rogue SV,2021,20500.0,41535.0,Gasoline,Automatic,FWD,30.0,2.5L
-Nissan,2024 Nissan Kicks SV,2024,21253.0,24077.0,Gasoline,Other,FWD,33.5,1.6L
 Nissan,2013 Nissan Frontier Pro-4X,2013,15995.0,117825.0,Gasoline,Automatic,4WD,18.0,4.0L
 Nissan,2017 Nissan Murano SL,2017,13695.0,111027.0,Gasoline,Automatic,AWD,24.5,3.5L
 Nissan,2021 Nissan Rogue Sport SV,2021,20795.0,37830.0,Gasoline,Automatic,AWD,27.0,2.0L
 Nissan,2023 Nissan Rogue SV,2023,26661.0,12825.0,Gasoline,Automatic,AWD,31.5,1.5L
 Ford,2020 Ford Escape S,2020,17995.0,15554.0,Gasoline,Automatic,FWD,30.0,1.5L
 Ford,1998 Ford Crown Victoria LX,1998,12994.0,34500.0,Gasoline,Automatic,RWD,25.5,4.6L
-Ford,2011 Ford Mustang ROUSH STAGE 2 5 SPEED MANUAL VERY CLEAN,2011,24994.0,85400.0,Gasoline,Manual,Other,25.5,5.0L
 Ford,2015 Ford Focus Electric Base,2015,8950.0,47326.0,Electric,Automatic,FWD,25.5,Electric
 Ford,2014 Ford Shelby GT500 Base,2014,54975.0,27300.0,Gasoline,Manual,RWD,19.5,5.8L
 Ford,2020 Ford Shelby GT350R Base,2020,129995.0,933.0,Gasoline,Manual,RWD,17.5,5.2L
@@ -2887,7 +2713,6 @@ Ford,2024 Ford Edge SEL,2024,35955.0,8847.0,Gasoline,Automatic,AWD,24.5,2.0L
 Ford,2015 Ford F-150 XLT,2015,20990.0,94662.0,Gasoline,Automatic,4WD,20.0,3.5L
 Ford,2020 Ford Shelby GT350R Base,2020,99995.0,2532.0,Gasoline,Manual,RWD,17.5,5.2L
 Ford,2017 Ford Shelby GT350 Base,2017,67255.0,11176.0,Gasoline,Manual,RWD,17.5,5.2L
-Ford,1970 Ford Torino,1970,69995.0,63686.0,Gasoline,Manual,Other,25.5,7.0L
 Ford,2018 Ford Mustang GT Premium,2018,58000.0,4241.0,Gasoline,Manual,RWD,19.5,5.0L
 Ford,2021 Ford Bronco Sport Big Bend,2021,21214.0,54217.0,Gasoline,Automatic,4WD,26.5,1.5L
 Ford,2024 Ford F-450 XL,2024,73949.0,4962.0,Diesel,Automatic,4WD,25.5,6.7L
@@ -2964,7 +2789,6 @@ Ford,2021 Ford F-150 XLT,2021,28498.0,98280.0,Gasoline,Automatic,4WD,21.0,2.7L
 Ford,2022 Ford F-450 Platinum,2022,88243.0,23511.0,Diesel,Automatic,4WD,25.5,6.7L
 Ford,2013 Ford Escape Titanium,2013,9900.0,117961.0,Gasoline,Automatic,FWD,26.0,2.0L
 Ford,2021 Ford F-150 XL,2021,33995.0,49490.0,Gasoline,Automatic,4WD,20.0,3.5L
-Ford,2011 Ford F-450 Lariat,2011,19850.0,121899.0,Diesel,Other,4WD,25.5,6.7L
 Ford,2024 Ford Bronco Sport Big Bend,2024,25774.0,22930.0,Gasoline,Automatic,4WD,27.0,1.5L
 Ford,2020 Ford Edge ST,2020,24977.0,41417.0,Gasoline,Automatic,AWD,22.5,2.7L
 Ford,2013 Ford Focus SE,2013,7536.0,72117.0,Gasoline,Automatic,FWD,32.0,2.0L
@@ -3044,7 +2868,6 @@ Ford,2016 Ford Fusion Titanium,2016,15195.0,66060.0,Gasoline,Automatic,FWD,27.5,
 Ford,2016 Ford F-150 XLT,2016,13950.0,179073.0,Gasoline,Automatic,4WD,19.0,3.5L
 Ford,2019 Ford F-150 XLT,2019,27995.0,68967.0,Gasoline,Automatic,4WD,20.0,3.5L
 Ford,2024 Ford Edge Sport,2024,37874.0,9137.0,Gasoline,Automatic,AWD,24.5,2.0L
-Ford,2022 Ford Escape SEL Hybrid,2022,26388.0,34832.0,Hybrid,Other,FWD,40.5,2.5L
 Ford,2021 Ford Mustang Mach-E Premium,2021,29492.0,29667.0,Electric,Automatic,AWD,25.5,Electric
 Ford,2016 Ford Fusion SE,2016,14791.0,41448.0,Gasoline,Automatic,FWD,30.0,1.5L
 Ford,2009 Ford Ranger XLT SuperCab,2009,15950.0,56455.0,Gasoline,Automatic,RWD,18.0,4.0L
@@ -3109,7 +2932,6 @@ Ford,2019 Ford F-150 XLT,2019,32975.0,33779.0,Gasoline,Automatic,4WD,20.5,2.7L
 Ford,2023 Ford F-150 XLT,2023,37888.0,47474.0,Gasoline,Automatic,4WD,19.0,5.0L
 Ford,2015 Ford F-150 XLT,2015,16900.0,125750.0,Gasoline,Automatic,4WD,20.0,3.5L
 Ford,2019 Ford Mustang EcoBoost Premium,2019,21888.0,52296.0,Gasoline,Manual,RWD,25.5,2.3L
-Ford,2016 Ford Focus RS Base,2016,33900.0,32000.0,Gasoline,Other,AWD,22.0,2.3L
 Ford,2024 Ford Mustang Dark Horse Fastback,2024,64299.0,937.0,Gasoline,Automatic,RWD,18.0,5.0L
 Ford,2014 Ford F-150 XL,2014,17777.0,124554.0,Gasoline,Automatic,4WD,25.5,3.5L
 Ford,2021 Ford EcoSport SES,2021,18500.0,27064.0,Gasoline,Automatic,4WD,26.0,2.0L
@@ -3131,7 +2953,6 @@ Ford,2021 Ford Ranger XL,2021,24829.0,58331.0,Gasoline,Automatic,4WD,22.0,2.3L
 Ford,2015 Ford Explorer XLT,2015,9900.0,170275.0,Gasoline,Automatic,4WD,20.0,3.5L
 Ford,2021 Ford Explorer ST,2021,34900.0,68542.0,Gasoline,Automatic,4WD,21.0,3.0L
 Ford,2006 Ford F-250 XLT,2006,11950.0,103866.0,Gasoline,Automatic,4WD,25.5,5.4L
-Ford,2016 Ford Fusion SE,2016,7775.0,100956.0,Gasoline,Automatic,Other,34.0,2.5L
 Ford,2024 Ford F-150 XLT,2024,43775.0,19456.0,Gasoline,Automatic,4WD,23.0,3.5L
 Ford,2024 Ford Mustang EcoBoost Premium,2024,37924.0,9337.0,Gasoline,Automatic,RWD,27.5,2.3L
 Ford,2020 Ford Transit-150 Base,2020,33499.0,51728.0,Gasoline,Automatic,AWD,25.5,3.5L
@@ -3157,7 +2978,6 @@ Ford,2017 Ford Escape Titanium,2017,11279.0,102951.0,Gasoline,Automatic,AWD,27.0
 Ford,2014 Ford F-350 Lariat Super Duty,2014,24980.0,198615.0,Diesel,Automatic,4WD,25.5,6.7L
 Ford,2021 Ford Ranger LARIAT,2021,36895.0,24702.0,Gasoline,Automatic,4WD,22.0,2.3L
 Ford,2015 Ford F-150 Platinum,2015,27758.0,67959.0,Gasoline,Automatic,4WD,18.0,3.5L
-Ford,2016 Ford C-Max Hybrid SE,2016,8995.0,106618.0,Hybrid,Other,FWD,39.5,2.0L
 Ford,2023 Ford F-150 XLT,2023,42888.0,20356.0,Gasoline,Automatic,4WD,19.5,2.7L
 Ford,2023 Ford F-150 XLT,2023,37888.0,47994.0,Gasoline,Automatic,4WD,19.0,5.0L
 Ford,2018 Ford Escape SE,2018,9000.0,178401.0,Gasoline,Automatic,4WD,25.0,1.5L
@@ -3174,7 +2994,6 @@ Ford,2019 Ford Escape SEL,2019,16500.0,80793.0,Gasoline,Automatic,4WD,25.0,1.5L
 Ford,2023 Ford Escape ST-Line,2023,24869.0,28582.0,Gasoline,Automatic,AWD,29.0,1.5L
 Ford,2020 Ford Escape SE,2020,10995.0,118047.0,Gasoline,Automatic,AWD,28.5,1.5L
 Ford,2018 Ford F-150 Lariat,2018,24949.0,126361.0,Gasoline,Automatic,4WD,18.5,3.5L
-Ford,2025 Ford Escape Base,2025,39995.0,1824.0,Gasoline,Other,FWD,25.5,2.5L
 Ford,2020 Ford Escape SEL,2020,21495.0,55567.0,Gasoline,Automatic,FWD,30.0,1.5L
 Ford,2024 Ford Mustang GT Premium,2024,49995.0,10784.0,Gasoline,Automatic,RWD,19.0,5.0L
 Ford,2011 Ford F-150 Platinum,2011,9900.0,181566.0,Gasoline,Automatic,4WD,18.0,3.5L
@@ -3292,16 +3111,13 @@ Audi,2015 Audi R8 4.2,2015,75995.0,35895.0,Gasoline,Automatic,AWD,18.5,4.2L
 Audi,2020 Audi RS Q8 4.0T,2020,83987.0,28557.0,Hybrid,Automatic,AWD,16.0,4.0L
 Audi,2012 Audi R8 5.2 quattro Spyder,2012,128800.0,26641.0,Gasoline,Manual,AWD,15.5,5.2L
 Audi,2011 Audi R8 4.2 quattro Spyder,2011,74800.0,17117.0,Gasoline,Automatic,AWD,17.0,4.2L
-Audi,2018 Audi R8 5.2 V10,2018,129800.0,28412.0,Gasoline,Other,AWD,18.0,5.2L
 Audi,2023 Audi RS Q8 4.0T,2023,101989.0,19908.0,Gasoline,Automatic,AWD,16.5,4.0L
 Audi,2023 Audi R8 V10 performance RWD S tronic,2023,169895.0,8577.0,Gasoline,Automatic,RWD,18.5,5.2L
 Audi,2021 Audi R8 5.2 V10,2021,167991.0,6008.0,Gasoline,Automatic,RWD,18.5,5.2L
 Audi,2017 Audi R8 5.2 quattro Plus,2017,149980.0,13629.0,Gasoline,Automatic,AWD,18.0,5.2L
-Audi,2014 Audi R8 5.2 plus,2014,99800.0,44092.0,Gasoline,Other,AWD,17.5,5.2L
 Audi,2025 Audi Q7 55 Premium Plus,2025,68580.0,3649.0,Hybrid,Automatic,AWD,20.5,3.0L
 Audi,2013 Audi S5 3.0T Premium Plus quattro,2013,19999.0,51645.0,Gasoline,Automatic,AWD,22.0,3.0L
 Audi,2024 Audi S3 2.0T quattro Premium,2024,48998.0,9030.0,Gasoline,Automatic,AWD,27.5,2.0L
-Audi,2016 Audi S7 4.0T,2016,31000.0,57000.0,Gasoline,Other,AWD,22.0,4.0L
 Audi,2011 Audi R8 5.2 quattro Spyder,2011,109888.0,21700.0,Gasoline,Manual,AWD,15.5,5.2L
 Audi,2018 Audi RS 3 2.5T,2018,44888.0,34597.0,Gasoline,Automatic,AWD,23.5,2.5L
 Audi,2021 Audi RS 6 Avant 4.0T,2021,98000.0,10802.0,Gasoline,Automatic,AWD,18.5,4.0L
@@ -3315,7 +3131,6 @@ Audi,2017 Audi S3 2.0T Premium Plus,2017,21995.0,83237.0,Gasoline,Automatic,AWD,
 Audi,2013 Audi RS 5 4.2,2013,29999.0,56671.0,Gasoline,Automatic,AWD,25.5,4.2L
 Audi,2024 Audi RS e-tron GT quattro,2024,103987.0,11124.0,Electric,Automatic,AWD,25.5,Electric
 Audi,2023 Audi S3 Premium Plus TFSI quattro S tronic,2023,38899.0,21187.0,Gasoline,Automatic,AWD,27.5,2.0L
-Audi,2018 Audi RS 5 2.9T,2018,41900.0,64458.0,Gasoline,Other,AWD,22.0,2.9L
 Audi,2024 Audi S3 Premium Plus TFSI quattro S tronic,2024,47491.0,8082.0,Gasoline,Automatic,AWD,27.5,2.0L
 Audi,2024 Audi S3 Premium Plus TFSI quattro S tronic,2024,48991.0,8665.0,Gasoline,Automatic,AWD,27.5,2.0L
 Audi,2019 Audi RS 5 2.9T,2019,41991.0,61643.0,Gasoline,Automatic,AWD,21.5,2.9L
@@ -3421,7 +3236,6 @@ Audi,2020 Audi Q8 55 Premium,2020,33995.0,69056.0,Gasoline,Automatic,AWD,19.0,3.
 Audi,2018 Audi A6 2.0T Premium Plus,2018,18888.0,67556.0,Gasoline,Automatic,AWD,26.5,2.0L
 Audi,2021 Audi Q8 55 Premium Plus,2021,45888.0,31797.0,Gasoline,Automatic,AWD,20.5,3.0L
 Audi,2013 Audi A6 3.0T Prestige Quattro,2013,10995.0,124095.0,Gasoline,Automatic,AWD,22.5,3.0L
-Audi,2014 Audi A6 2.0T Premium Plus quattro,2014,11900.0,99874.0,Gasoline,Other,AWD,24.5,2.0L
 Audi,2018 Audi Q5 2.0T Premium Plus,2018,16995.0,91857.0,Gasoline,Automatic,AWD,25.0,2.0L
 Audi,2022 Audi Q3 45 S line Premium Plus,2022,33054.0,17441.0,Gasoline,Automatic,AWD,24.5,2.0L
 Audi,2023 Audi A4 allroad 45 Premium Plus,2023,41800.0,39597.0,Gasoline,Automatic,AWD,26.5,2.0L
@@ -3587,7 +3401,6 @@ Audi,2019 Audi Q7 55 Premium Plus,2019,26869.0,46863.0,Gasoline,Automatic,AWD,22
 Audi,2023 Audi A3 Premium,2023,28990.0,21152.0,Gasoline,Automatic,AWD,31.0,2.0L
 Audi,2024 Audi Q7 55 Premium Plus,2024,49991.0,21168.0,Gasoline,Automatic,AWD,21.5,3.0L
 Audi,2022 Audi SQ5 3.0T Premium Plus,2022,41483.0,21684.0,Gasoline,Automatic,AWD,21.5,3.0L
-Audi,2012 Audi A7 Premium,2012,16000.0,46450.0,Gasoline,Other,AWD,23.0,3.0L
 Audi,2024 Audi Q5 55 S line Premium Plus,2024,38990.0,24850.0,Gasoline,Automatic,AWD,25.5,2.0L
 Audi,2017 Audi A7 3.0T Premium Plus,2017,25523.0,83869.0,Gasoline,Automatic,AWD,25.0,3.0L
 Audi,2019 Audi Q5 2.0T Premium Plus,2019,24250.0,48022.0,Gasoline,Automatic,AWD,24.5,2.0L
@@ -3634,7 +3447,6 @@ Audi,2022 Audi Q7 55 Premium Plus,2022,31222.0,68061.0,Gasoline,Automatic,AWD,20
 Audi,2018 Audi Q5 2.0T Premium Plus,2018,18900.0,48631.0,Gasoline,Automatic,AWD,27.0,2.0L
 Audi,2024 Audi Q3 45 S line Premium,2024,37980.0,6163.0,Gasoline,Automatic,AWD,24.0,2.0L
 Audi,2017 Audi Q7 3.0T Prestige,2017,18445.0,82879.0,Gasoline,Automatic,AWD,22.0,3.0L
-Audi,2024 Audi Q5 45 S line quattro Premium,2024,45880.0,9158.0,Gasoline,Other,AWD,25.0,2.0L
 Audi,2020 Audi Q5 45 Premium,2020,20980.0,70603.0,Gasoline,Automatic,AWD,25.0,2.0L
 Audi,2018 Audi Q5 2.0T Prestige,2018,16995.0,91290.0,Gasoline,Automatic,AWD,25.0,2.0L
 Audi,2022 Audi A6 55 Premium Plus,2022,34995.0,62832.0,Gasoline,Automatic,AWD,25.5,3.0L
@@ -3655,7 +3467,6 @@ Audi,2021 Audi Q7 55 Premium,2021,29500.0,62762.0,Gasoline,Automatic,AWD,20.5,3.
 Audi,2022 Audi Q5 45 S line Premium Plus,2022,35587.0,23103.0,Hybrid,Automatic,AWD,25.5,2.0L
 Audi,2019 Audi Q7 55 Premium Plus,2019,22976.0,80126.0,Gasoline,Automatic,AWD,22.0,3.0L
 Audi,2018 Audi Q7 2.0T Premium Plus,2018,17934.0,90470.0,Gasoline,Automatic,AWD,22.0,2.0L
-Audi,2014 Audi Q7 3.0T Premium Plus,2014,11900.0,98726.0,Gasoline,Other,AWD,19.0,3.0L
 Audi,2015 Audi A6 2.0T Premium,2015,11445.0,96550.0,Gasoline,Automatic,FWD,29.0,2.0L
 Audi,2023 Audi Q7 55 Premium,2023,48997.0,9105.0,Gasoline,Automatic,AWD,20.0,3.0L
 Audi,2017 Audi Q7 3.0T Premium Plus,2017,15381.0,115862.0,Gasoline,Automatic,AWD,22.0,3.0L
@@ -3666,7 +3477,6 @@ Audi,2023 Audi Q7 55 Premium Plus,2023,34000.0,60908.0,Gasoline,Automatic,AWD,20
 Audi,2023 Audi Q5 45 S line Premium Plus,2023,26500.0,50421.0,Gasoline,Automatic,AWD,25.5,2.0L
 Audi,2022 Audi Q7 45 Premium,2022,29500.0,87409.0,Gasoline,Automatic,AWD,22.5,2.0L
 Audi,2023 Audi Q5 45 S line Premium Plus,2023,36472.0,22249.0,Gasoline,Automatic,AWD,25.5,2.0L
-Audi,2013 Audi Q7 3.0T Premium Plus,2013,10797.0,101750.0,Gasoline,Automatic,Other,22.0,3.0L
 Audi,2016 Audi Q5 2.0T Premium Plus,2016,15980.0,80995.0,Gasoline,Automatic,AWD,24.0,2.0L
 Audi,2018 Audi Q5 2.0T Premium,2018,17980.0,71472.0,Gasoline,Automatic,AWD,25.0,2.0L
 Audi,2017 Audi Q7 3.0T Premium,2017,12995.0,131239.0,Gasoline,Automatic,AWD,22.0,3.0L
@@ -3808,24 +3618,18 @@ Kia,2009 Kia Sedona LX,2009,4493.0,166905.0,Gasoline,Automatic,FWD,19.5,3.8L
 Kia,2021 Kia Soul S,2021,16577.0,25344.0,Gasoline,Automatic,FWD,25.5,2.0L
 Kia,2024 Kia EV6 Light,2024,37389.0,401.0,Electric,Automatic,AWD,25.5,Electric
 Kia,2021 Kia Soul GT-Line,2021,14995.0,35098.0,Gasoline,Automatic,FWD,30.5,2.0L
-Kia,2024 Kia Soul EX,2024,24500.0,18131.0,Gasoline,Other,FWD,30.0,2.0L
 Kia,2023 Kia Telluride SX X-Line,2023,41199.0,29865.0,Gasoline,Automatic,AWD,21.0,3.8L
 Kia,2021 Kia Sorento Hybrid EX,2021,22971.0,69387.0,Hybrid,Automatic,FWD,37.0,1.6L
 Kia,2021 Kia Telluride SX,2021,30795.0,75968.0,Gasoline,Automatic,AWD,21.5,3.8L
 Kia,2024 Kia Soul LX,2024,20422.0,25352.0,Gasoline,Automatic,FWD,32.0,2.0L
-Kia,2023 Kia Soul LX,2023,17395.0,19331.0,Gasoline,Other,FWD,32.0,2.0L
-Kia,2024 Kia Soul EX,2024,21495.0,26005.0,Gasoline,Other,FWD,30.0,2.0L
 Kia,2013 Kia Sorento EX,2013,8999.0,120988.0,Gasoline,Automatic,AWD,23.5,2.4L
 Kia,2022 Kia Sorento Hybrid S,2022,26150.0,62835.0,Hybrid,Automatic,FWD,37.0,1.6L
 Kia,2020 Kia Sportage SX Turbo,2020,22049.0,68598.0,Gasoline,Automatic,AWD,21.5,2.0L
 Kia,2025 Kia Sorento S,2025,37000.0,5141.0,Gasoline,Automatic,AWD,25.5,2.5L
 Kia,2016 Kia Sorento LX,2016,10991.0,115202.0,Gasoline,Automatic,FWD,25.0,2.4L
 Kia,2019 Kia Soul +,2019,12395.0,107471.0,Gasoline,Automatic,FWD,27.5,2.0L
-Kia,2021 Kia Soul S,2021,16795.0,38382.0,Gasoline,Other,FWD,32.0,2.0L
-Kia,2023 Kia Soul LX,2023,18736.0,26105.0,Gasoline,Other,FWD,32.0,2.0L
 Kia,2018 Kia Sorento LX,2018,10990.0,107273.0,Gasoline,Automatic,AWD,23.0,2.4L
 Kia,2021 Kia Sorento SX,2021,25990.0,70365.0,Gasoline,Automatic,FWD,25.5,2.5L
-Kia,2016 Kia Soul Base,2016,11200.0,93600.0,Gasoline,Other,FWD,27.0,1.6L
 Kia,2019 Kia Soul Base,2019,10999.0,73590.0,Gasoline,Automatic,FWD,28.5,1.6L
 Kia,2017 Kia Forte LX,2017,12977.0,34975.0,Gasoline,Automatic,FWD,33.5,2.0L
 Kia,2022 Kia Seltos SX,2022,23000.0,16273.0,Gasoline,Automatic,AWD,27.5,1.6L
@@ -3857,18 +3661,14 @@ Kia,2022 Kia Carnival SX,2022,32980.0,67162.0,Gasoline,Automatic,FWD,22.5,3.5L
 Kia,2025 Kia Sorento S,2025,33291.0,5578.0,Gasoline,Automatic,FWD,27.0,2.5L
 Kia,2024 Kia Carnival LX,2024,34883.0,19954.0,Gasoline,Automatic,FWD,22.5,3.5L
 Kia,2016 Kia Soul Base,2016,9500.0,91075.0,Gasoline,Automatic,FWD,27.0,1.6L
-Kia,2024 Kia Seltos S,2024,22500.0,42384.0,Gasoline,Other,AWD,29.0,2.0L
 Kia,2022 Kia Telluride S,2022,30272.0,39823.0,Gasoline,Automatic,AWD,21.5,3.8L
 Kia,2017 Kia Optima EX,2017,13576.0,75564.0,Gasoline,Automatic,FWD,29.0,2.4L
 Kia,2020 Kia Soul LX,2020,15149.0,31081.0,Gasoline,Automatic,FWD,25.5,2.0L
 Kia,2024 Kia Soul LX,2024,16260.0,19146.0,Gasoline,Automatic,FWD,32.0,2.0L
-Kia,2025 Kia Soul LX,2025,18795.0,20782.0,Gasoline,Other,FWD,32.0,2.0L
 Kia,2020 Kia Soul GT-Line Turbo,2020,17995.0,32838.0,Gasoline,Automatic,FWD,29.5,1.6L
-Kia,2022 Kia Soul S,2022,15990.0,68711.0,Gasoline,Other,FWD,32.0,2.0L
 Kia,2020 Kia Soul GT-Line 2.0L,2020,12788.0,99239.0,Gasoline,Automatic,FWD,30.0,2.0L
 Kia,2023 Kia Telluride S,2023,34488.0,40791.0,Gasoline,Automatic,AWD,21.0,3.8L
 Kia,2020 Kia Soul LX,2020,11988.0,92576.0,Gasoline,Automatic,FWD,25.5,2.0L
-Kia,2020 Kia Soul LX 4dr Crossover CVT,2020,12750.0,82772.0,Gasoline,Other,FWD,33.0,2.0L
 Kia,2017 Kia Soul Base,2017,8999.0,92656.0,Gasoline,Automatic,FWD,30.0,1.6L
 Kia,2016 Kia Sportage LX,2016,10999.0,86858.0,Gasoline,Automatic,FWD,24.5,2.4L
 Kia,2014 Kia Soul Base,2014,4494.0,161216.0,Gasoline,Automatic,FWD,27.0,1.6L
@@ -3896,7 +3696,6 @@ Kia,2022 Kia Sportage LX,2022,16999.0,52235.0,Gasoline,Automatic,AWD,24.0,2.4L
 Kia,2022 Kia Sportage LX,2022,21232.0,21760.0,Gasoline,Automatic,AWD,24.0,2.4L
 Kia,2019 Kia Sorento S,2019,19985.0,82649.0,Gasoline,Automatic,FWD,22.5,3.3L
 Kia,2024 Kia Forte LXS,2024,19306.0,21402.0,Gasoline,Automatic,FWD,33.5,2.0L
-Kia,2024 Kia Forte LXS,2024,19995.0,8673.0,Gasoline,Other,FWD,33.5,2.0L
 Kia,2022 Kia Niro EV EX,2022,18988.0,26999.0,Electric,Automatic,FWD,25.5,Electric
 Kia,2017 Kia Sorento LX,2017,13995.0,69300.0,Gasoline,Automatic,FWD,24.5,2.4L
 Kia,2025 Kia Sportage SX-Prestige,2025,37052.0,1269.0,Gasoline,Automatic,AWD,25.0,2.5L
@@ -3904,7 +3703,6 @@ Kia,2025 Kia Sportage X-Pro Prestige,2025,41996.0,385.0,Gasoline,Automatic,AWD,2
 Kia,2024 Kia K5 GT,2024,28495.0,15136.0,Gasoline,Automatic,FWD,28.0,2.5L
 Kia,2023 Kia Sportage EX,2023,26465.0,15413.0,Gasoline,Automatic,AWD,25.5,2.5L
 Kia,2024 Kia Sportage S,2024,33088.0,7725.0,Gasoline,Automatic,AWD,26.5,2.5L
-Kia,2024 Kia Sorento SX,2024,39697.0,6498.0,Gasoline,Other,AWD,23.5,2.5L
 Kia,2024 Kia Sportage SX-Prestige,2024,33688.0,4144.0,Gasoline,Automatic,FWD,29.0,2.5L
 Kia,2022 Kia Sportage LX,2022,18988.0,29884.0,Gasoline,Automatic,FWD,26.5,2.4L
 Kia,2024 Kia Sportage X-Line,2024,30788.0,6745.0,Gasoline,Automatic,AWD,24.5,2.5L
@@ -3912,9 +3710,7 @@ Kia,2022 Kia Sportage S,2022,22517.0,31288.0,Gasoline,Automatic,AWD,24.0,2.4L
 Kia,2024 Kia Sportage LX,2024,25000.0,31744.0,Gasoline,Automatic,FWD,29.0,2.5L
 Kia,2019 Kia Sportage LX,2019,12730.0,90084.0,Gasoline,Automatic,FWD,26.5,2.4L
 Kia,2020 Kia Sportage LX,2020,13488.0,87372.0,Gasoline,Automatic,FWD,26.5,2.4L
-Kia,2017 Kia Sportage LX,2017,9500.0,103149.0,Gasoline,Other,FWD,26.0,2.4L
 Kia,2020 Kia Sportage LX,2020,17980.0,14167.0,Gasoline,Automatic,FWD,26.5,2.4L
-Kia,2023 Kia Soul LX,2023,15990.0,61198.0,Gasoline,Other,FWD,32.0,2.0L
 Kia,2020 Kia Soul S,2020,14195.0,75125.0,Gasoline,Automatic,FWD,32.0,2.0L
 Kia,2019 Kia Soul Base,2019,11995.0,75846.0,Gasoline,Automatic,FWD,28.5,1.6L
 Kia,2023 Kia Sportage EX,2023,21194.0,76234.0,Gasoline,Automatic,FWD,28.5,2.5L
@@ -3935,7 +3731,6 @@ Kia,2022 Kia Soul LX,2022,14555.0,62426.0,Gasoline,Automatic,FWD,32.0,2.0L
 Kia,2020 Kia Sportage LX,2020,12600.0,66532.0,Gasoline,Automatic,FWD,26.5,2.4L
 Kia,2021 Kia Soul S,2021,15000.0,52800.0,Gasoline,Automatic,FWD,32.0,2.0L
 Kia,2023 Kia Sportage X-Pro Prestige,2023,29900.0,19035.0,Gasoline,Automatic,AWD,25.5,2.5L
-Kia,2025 Kia K4 LXS,2025,22495.0,577.0,Gasoline,Other,FWD,34.0,2.0L
 Kia,2015 Kia Sedona L,2015,7999.0,113678.0,Gasoline,Automatic,FWD,24.0,3.3L
 Kia,2020 Kia Soul LX,2020,16400.0,13106.0,Gasoline,Automatic,FWD,25.5,2.0L
 Kia,2023 Kia Sportage X-Line,2023,28994.0,15420.0,Gasoline,Automatic,AWD,25.5,2.5L
@@ -3946,11 +3741,9 @@ Kia,2023 Kia K5 GT-Line,2023,23992.0,58435.0,Gasoline,Automatic,AWD,29.0,1.6L
 Kia,2022 Kia Seltos EX,2022,24711.0,19022.0,Gasoline,Automatic,AWD,29.0,2.0L
 Kia,2023 Kia Soul LX,2023,20895.0,50982.0,Gasoline,Automatic,FWD,32.0,2.0L
 Kia,2019 Kia Sportage LX,2019,13634.0,81379.0,Gasoline,Automatic,AWD,23.0,2.4L
-Kia,2022 Kia Seltos EX,2022,19998.0,25641.0,Gasoline,Other,AWD,29.0,2.0L
 Kia,2019 Kia Soul Base,2019,8999.0,81444.0,Gasoline,Automatic,FWD,28.5,1.6L
 Kia,2020 Kia Forte FE,2020,15499.0,20724.0,Gasoline,Automatic,FWD,36.0,2.0L
 Kia,2018 Kia Soul Base,2018,9499.0,76349.0,Gasoline,Automatic,FWD,27.5,1.6L
-Kia,2021 Kia Sorento SX,2021,27499.0,32864.0,Gasoline,Other,AWD,24.5,2.5L
 Kia,2025 Kia Sportage S,2025,34923.0,771.0,Gasoline,Automatic,AWD,26.5,2.5L
 Kia,2024 Kia Sportage S,2024,32974.0,25595.0,Gasoline,Automatic,AWD,26.5,2.5L
 Kia,2021 Kia Sportage SX Turbo,2021,22788.0,49493.0,Gasoline,Automatic,AWD,21.5,2.0L
@@ -3976,9 +3769,7 @@ Kia,2022 Kia Seltos S,2022,19500.0,50482.0,Gasoline,Automatic,AWD,29.0,2.0L
 Kia,2024 Kia Telluride EX X-Line,2024,39980.0,15947.0,Gasoline,Automatic,AWD,21.0,3.8L
 Kia,2012 Kia Sportage EX,2012,11300.0,43677.0,Gasoline,Automatic,FWD,25.5,2.4L
 Kia,2022 Kia K5 GT-Line,2022,23459.0,60003.0,Gasoline,Automatic,FWD,32.0,1.6L
-Kia,2022 Kia Soul LX,2022,14995.0,52908.0,Gasoline,Other,FWD,31.0,2.0L
 Kia,2017 Kia Sportage EX,2017,13500.0,81892.0,Gasoline,Automatic,FWD,25.5,2.4L
-Kia,2022 Kia Soul LX,2022,17995.0,7468.0,Gasoline,Other,FWD,31.0,2.0L
 Kia,2023 Kia Sportage X-Line,2023,27844.0,16182.0,Gasoline,Automatic,AWD,25.5,2.5L
 Kia,2023 Kia Sportage SX-Prestige,2023,29444.0,30307.0,Gasoline,Automatic,AWD,25.5,2.5L
 Kia,2023 Kia Sportage SX,2023,26000.0,34596.0,Gasoline,Automatic,FWD,28.5,2.5L
@@ -3991,14 +3782,11 @@ Kia,2023 Kia EV6 GT,2023,44895.0,9737.0,Electric,Automatic,AWD,25.5,Electric
 Kia,2022 Kia Sorento SX,2022,31650.0,26783.0,Gasoline,Automatic,AWD,24.5,2.5L
 Kia,2024 Kia Sorento SX Prestige,2024,43519.0,5000.0,Gasoline,Automatic,AWD,23.5,2.5L
 Kia,2022 Kia Sportage EX,2022,23819.0,19343.0,Gasoline,Automatic,AWD,24.0,2.4L
-Kia,2024 Kia Sorento SX,2024,35499.0,12011.0,Gasoline,Other,FWD,24.5,2.5L
 Kia,2023 Kia Sportage LX,2023,23995.0,49900.0,Gasoline,Automatic,AWD,25.5,2.5L
 Kia,2024 Kia Sportage LX,2024,23504.0,24623.0,Gasoline,Automatic,AWD,24.5,2.5L
-Kia,2024 Kia Soul LX,2024,19200.0,13062.0,Gasoline,Other,FWD,32.0,2.0L
 Kia,2024 Kia Seltos LX,2024,22788.0,8117.0,Gasoline,Automatic,AWD,29.0,2.0L
 Kia,2020 Kia Sportage LX,2020,18590.0,47287.0,Gasoline,Automatic,FWD,26.5,2.4L
 Kia,2022 Kia Telluride SX,2022,42500.0,7419.0,Gasoline,Automatic,AWD,21.5,3.8L
-Kia,2022 Kia Sorento SX,2022,30973.0,36573.0,Gasoline,Other,AWD,24.5,2.5L
 Kia,2022 Kia Sportage EX,2022,22889.0,49435.0,Gasoline,Automatic,AWD,24.0,2.4L
 Kia,2023 Kia Sportage LX,2023,21350.0,47104.0,Gasoline,Automatic,FWD,28.5,2.5L
 Kia,2023 Kia Sportage LX,2023,22750.0,41467.0,Gasoline,Automatic,AWD,25.5,2.5L
@@ -4018,7 +3806,6 @@ Kia,2024 Kia Sportage S,2024,32800.0,27459.0,Gasoline,Automatic,AWD,26.5,2.5L
 Kia,2020 Kia Sportage LX,2020,19428.0,11689.0,Gasoline,Automatic,AWD,24.0,2.4L
 Kia,2019 Kia Sportage LX,2019,10988.0,88528.0,Gasoline,Automatic,AWD,23.0,2.4L
 Kia,2024 Kia Forte LXS,2024,18096.0,18780.0,Gasoline,Automatic,FWD,33.5,2.0L
-Kia,2023 Kia Forte GT-Line,2023,20995.0,21497.0,Gasoline,Other,FWD,33.5,2.0L
 Kia,2022 Kia Sportage Nightfall,2022,23088.0,20506.0,Gasoline,Automatic,AWD,24.0,2.4L
 Kia,2021 Kia Soul S,2021,13895.0,79151.0,Gasoline,Automatic,FWD,32.0,2.0L
 Kia,2024 Kia EV6 GT-Line,2024,41895.0,7756.0,Electric,Automatic,AWD,25.5,Electric
@@ -4032,13 +3819,11 @@ Kia,2024 Kia Forte LXS,2024,18037.0,19532.0,Gasoline,Automatic,FWD,33.5,2.0L
 Kia,2024 Kia Forte LXS,2024,17977.0,20528.0,Gasoline,Automatic,FWD,33.5,2.0L
 Kia,2016 Kia Sorento LX,2016,11495.0,79164.0,Gasoline,Automatic,FWD,25.0,2.4L
 Kia,2022 Kia Telluride S,2022,27300.0,72079.0,Gasoline,Automatic,AWD,21.5,3.8L
-Kia,2024 Kia Soul GT-Line,2024,23467.0,15561.0,Gasoline,Other,FWD,30.0,2.0L
 Kia,2022 Kia Sportage EX,2022,18638.0,53223.0,Gasoline,Automatic,FWD,26.5,2.4L
 Kia,2022 Kia EV6 GT-Line,2022,27989.0,32024.0,Electric,Automatic,AWD,25.5,Electric
 Kia,2019 Kia Sorento LX,2019,17395.0,105542.0,Gasoline,Automatic,AWD,21.5,3.3L
 Kia,2017 Kia Sorento EX,2017,20495.0,76526.0,Gasoline,Automatic,AWD,21.5,3.3L
 Kia,2025 Kia Sportage SX-Prestige,2025,33788.0,858.0,Gasoline,Automatic,FWD,28.5,2.5L
-Kia,2023 Kia Seltos EX,2023,24497.0,46828.0,Gasoline,Other,AWD,29.0,2.0L
 Kia,2007 Kia Sorento LX,2007,4795.0,165685.0,Gasoline,Automatic,RWD,19.0,3.8L
 Kia,2024 Kia EV6 GT-Line,2024,42988.0,6020.0,Electric,Automatic,AWD,25.5,Electric
 Kia,2022 Kia Sorento SX,2022,31788.0,12205.0,Gasoline,Automatic,FWD,25.5,2.5L
@@ -4049,7 +3834,6 @@ Kia,2019 Kia Sorento EX,2019,19950.0,79114.0,Gasoline,Automatic,AWD,21.5,3.3L
 Kia,2020 Kia Telluride S,2020,18135.0,117556.0,Gasoline,Automatic,AWD,21.5,3.8L
 Kia,2017 Kia Sorento LX,2017,11598.0,86344.0,Gasoline,Automatic,AWD,21.5,3.3L
 Kia,2022 Kia Sorento EX,2022,29991.0,17050.0,Gasoline,Automatic,FWD,25.5,2.5L
-Kia,2024 Kia Seltos EX,2024,25995.0,4036.0,Gasoline,Other,AWD,29.0,2.0L
 Kia,2017 Kia Sorento LX,2017,9995.0,102876.0,Gasoline,Automatic,FWD,21.5,3.3L
 Kia,2017 Kia Sedona EX,2017,11790.0,113675.0,Gasoline,Automatic,FWD,21.0,3.3L
 Kia,2014 Kia Optima LX,2014,8950.0,38389.0,Gasoline,Automatic,FWD,28.5,2.4L
@@ -4068,8 +3852,6 @@ Kia,2022 Kia K5 LXS,2022,19993.0,29269.0,Gasoline,Automatic,FWD,32.0,1.6L
 Kia,2024 Kia Sportage LX,2024,22900.0,20326.0,Gasoline,Automatic,FWD,29.0,2.5L
 Kia,2023 Kia Seltos LX,2023,21723.0,17088.0,Gasoline,Automatic,AWD,29.0,2.0L
 Kia,2023 Kia K5 EX,2023,28124.0,9192.0,Gasoline,Automatic,FWD,32.0,1.6L
-Kia,2022 Kia Sorento SX,2022,26995.0,56518.0,Gasoline,Other,AWD,24.5,2.5L
-Kia,2021 Kia Sorento SX,2021,27189.0,41907.0,Gasoline,Other,AWD,24.5,2.5L
 Kia,2021 Kia K5 LXS,2021,16620.0,88063.0,Gasoline,Automatic,FWD,32.0,1.6L
 Kia,2017 Kia Sorento SXL,2017,18095.0,138630.0,Gasoline,Automatic,AWD,20.0,3.3L
 Kia,2024 Kia Sorento SX,2024,39988.0,149.0,Gasoline,Automatic,FWD,24.5,2.5L
@@ -4106,9 +3888,7 @@ Kia,2021 Kia Sorento LX,2021,23395.0,32032.0,Gasoline,Automatic,AWD,24.0,2.5L
 Kia,2021 Kia Telluride EX,2021,26399.0,86869.0,Gasoline,Automatic,AWD,21.5,3.8L
 Kia,2016 Kia Optima EX,2016,8499.0,140579.0,Gasoline,Automatic,FWD,29.5,2.4L
 Kia,2022 Kia Sorento SX Prestige,2022,30488.0,47783.0,Gasoline,Automatic,AWD,24.5,2.5L
-Kia,2023 Kia Sorento SX,2023,35991.0,14565.0,Gasoline,Other,AWD,24.5,2.5L
 Kia,2016 Kia Sorento LX,2016,7802.0,119277.0,Gasoline,Automatic,FWD,25.0,2.4L
-Kia,2022 Kia Sorento SX,2022,27495.0,63671.0,Gasoline,Other,AWD,24.5,2.5L
 Kia,2022 Kia Telluride EX,2022,29993.0,66884.0,Gasoline,Automatic,FWD,23.0,3.8L
 Kia,2017 Kia Sorento LX,2017,8895.0,128091.0,Gasoline,Automatic,FWD,24.5,2.4L
 Kia,2016 Kia Sorento LX,2016,12295.0,63302.0,Gasoline,Automatic,FWD,25.0,2.4L
@@ -4148,7 +3928,6 @@ Kia,2022 Kia Telluride EX,2022,31485.0,65304.0,Gasoline,Automatic,AWD,21.5,3.8L
 Kia,2020 Kia Optima LX,2020,18995.0,60255.0,Gasoline,Automatic,FWD,28.0,2.4L
 Kia,2022 Kia K5 LXS,2022,19988.0,41270.0,Gasoline,Automatic,FWD,32.0,1.6L
 Kia,2024 Kia Sorento EX,2024,39188.0,2423.0,Gasoline,Automatic,AWD,23.5,2.5L
-Kia,2020 Kia Rio S,2020,12625.0,80378.0,Gasoline,Other,FWD,37.0,1.6L
 Kia,2024 Kia Sorento SX,2024,46488.0,1258.0,Gasoline,Automatic,AWD,23.5,2.5L
 Kia,2022 Kia Forte LXS,2022,16999.0,16035.0,Gasoline,Automatic,FWD,34.0,2.0L
 Kia,2016 Kia Optima LX,2016,10499.0,78386.0,Gasoline,Automatic,FWD,29.5,2.4L
@@ -4179,11 +3958,9 @@ Kia,2023 Kia K5 GT-Line,2023,25750.0,44881.0,Gasoline,Automatic,AWD,29.0,1.6L
 Kia,2019 Kia Sportage LX,2019,9990.0,120485.0,Gasoline,Automatic,AWD,23.0,2.4L
 Kia,2025 Kia K5 GT-Line,2025,28931.0,5000.0,Gasoline,Automatic,AWD,28.5,2.5L
 Kia,2022 Kia Niro EV EX,2022,21024.0,48209.0,Electric,Automatic,FWD,25.5,Electric
-Kia,2022 Kia Seltos EX,2022,22554.0,29268.0,Gasoline,Other,AWD,29.0,2.0L
 Kia,2021 Kia Forte LXS,2021,18995.0,19513.0,Gasoline,Automatic,FWD,34.5,2.0L
 Kia,2020 Kia Niro EV EX Premium,2020,20888.0,19478.0,Electric,Automatic,FWD,25.5,Electric
 Kia,2024 Kia K5 EX,2024,28588.0,5802.0,Gasoline,Automatic,FWD,32.0,1.6L
-Hyundai,2011 Hyundai Elantra Touring SE,2011,7000.0,99200.0,Gasoline,Other,FWD,27.0,2.0L
 Hyundai,2020 Hyundai IONIQ Hybrid Blue,2020,12695.0,98442.0,Hybrid,Automatic,FWD,58.0,1.6L
 Hyundai,2017 Hyundai IONIQ Hybrid Limited,2017,13493.0,72245.0,Hybrid,Automatic,FWD,54.5,1.6L
 Hyundai,2020 Hyundai KONA SEL Plus 4dr Crossover,2020,17950.0,13486.0,Gasoline,Automatic,FWD,33.0,2.0L
@@ -4198,7 +3975,6 @@ Hyundai,2020 Hyundai Veloster N N,2020,22985.0,43861.0,Gasoline,Manual,FWD,25.5,
 Hyundai,2012 Hyundai Elantra Touring GLS,2012,7995.0,66726.0,Gasoline,Automatic,FWD,26.5,2.0L
 Hyundai,2020 Hyundai IONIQ Hybrid SE,2020,19500.0,38300.0,Hybrid,Automatic,FWD,54.5,1.6L
 Hyundai,2014 Hyundai Genesis Coupe 2.0T R-Spec,2014,11245.0,81673.0,Gasoline,Manual,RWD,23.0,2.0L
-Hyundai,2016 Hyundai Genesis Coupe 3.8 Ultimate,2016,16000.0,83600.0,Gasoline,Other,RWD,20.5,3.8L
 Hyundai,2017 Hyundai ELANTRA Limited,2017,16095.0,74314.0,Gasoline,Automatic,FWD,32.5,2.0L
 Hyundai,2012 Hyundai Genesis Coupe 2.0T R-Spec,2012,10495.0,101459.0,Gasoline,Manual,RWD,25.5,2.0L
 Hyundai,2017 Hyundai IONIQ Hybrid SEL,2017,14582.0,34610.0,Hybrid,Automatic,FWD,54.5,1.6L
@@ -4215,7 +3991,6 @@ Hyundai,2021 Hyundai IONIQ EV Limited,2021,17980.0,13118.0,Electric,Automatic,FW
 Hyundai,2018 Hyundai IONIQ Hybrid Limited,2018,16687.0,42062.0,Hybrid,Automatic,FWD,54.5,1.6L
 Hyundai,2022 Hyundai IONIQ Hybrid SEL,2022,19998.0,64809.0,Hybrid,Automatic,FWD,55.5,1.6L
 Hyundai,2014 Hyundai Santa Fe Sport 2.0L Turbo,2014,14389.0,50644.0,Gasoline,Automatic,FWD,23.0,2.0L
-Hyundai,2024 Hyundai SONATA SEL,2024,28188.0,3386.0,Gasoline,Automatic,Other,25.5,2.5L
 Hyundai,2022 Hyundai KONA SEL,2022,22300.0,26392.0,Gasoline,Automatic,AWD,30.5,2.0L
 Hyundai,2017 Hyundai TUCSON Limited,2017,11850.0,122694.0,Gasoline,Automatic,AWD,26.0,1.6L
 Hyundai,2016 Hyundai Elantra GT Base,2016,7224.0,105777.0,Gasoline,Automatic,FWD,28.5,2.0L
@@ -4240,7 +4015,6 @@ Hyundai,2023 Hyundai KONA SEL,2023,21097.0,23191.0,Gasoline,Automatic,FWD,32.5,2
 Hyundai,2017 Hyundai TUCSON Limited,2017,14434.0,70573.0,Gasoline,Automatic,AWD,26.0,1.6L
 Hyundai,2018 Hyundai TUCSON SEL,2018,9990.0,138994.0,Gasoline,Automatic,AWD,23.5,2.0L
 Hyundai,2025 Hyundai SANTA FE Limited,2025,38479.0,9095.0,Gasoline,Automatic,AWD,24.0,2.5L
-Hyundai,2022 Hyundai KONA SEL,2022,20500.0,52488.0,Gasoline,Other,FWD,32.5,2.0L
 Hyundai,2016 Hyundai Elantra GT Base,2016,5999.0,132924.0,Gasoline,Automatic,FWD,28.5,2.0L
 Hyundai,2019 Hyundai TUCSON SE,2019,16906.0,58060.0,Gasoline,Automatic,AWD,23.5,2.0L
 Hyundai,2024 Hyundai IONIQ 5 DISNEY100,2024,42588.0,861.0,Electric,Automatic,AWD,25.5,Electric
@@ -4261,7 +4035,6 @@ Hyundai,2019 Hyundai TUCSON SE,2019,18297.0,54019.0,Gasoline,Automatic,AWD,23.5,
 Hyundai,2015 Hyundai Genesis 3.8,2015,8900.0,126396.0,Gasoline,Automatic,RWD,25.5,3.8L
 Hyundai,2022 Hyundai TUCSON SE,2022,15995.0,82693.0,Gasoline,Automatic,FWD,29.5,2.5L
 Hyundai,2022 Hyundai ELANTRA N Base,2022,29800.0,9572.0,Gasoline,Manual,FWD,26.5,2.0L
-Hyundai,2023 Hyundai SANTA FE Calligraphy,2023,32980.0,13469.0,Gasoline,Other,AWD,24.5,2.5L
 Hyundai,2013 Hyundai Genesis 3.8,2013,12450.0,72264.0,Gasoline,Automatic,RWD,23.0,3.8L
 Hyundai,2023 Hyundai ELANTRA N Base,2023,31549.0,12293.0,Gasoline,Automatic,FWD,25.0,2.0L
 Hyundai,2021 Hyundai TUCSON Ultimate,2021,23473.0,34778.0,Gasoline,Automatic,AWD,23.5,2.4L
@@ -4301,7 +4074,6 @@ Hyundai,2023 Hyundai IONIQ 5 SE,2023,30368.0,33857.0,Electric,Automatic,RWD,25.5
 Hyundai,2020 Hyundai SANTA FE SEL 2.4,2020,18600.0,76240.0,Gasoline,Automatic,AWD,24.0,2.4L
 Hyundai,2023 Hyundai SONATA Limited,2023,26575.0,7432.0,Gasoline,Automatic,FWD,32.0,1.6L
 Hyundai,2024 Hyundai SANTA FE HEV Calligraphy,2024,43500.0,2653.0,Hybrid,Automatic,AWD,34.5,1.6L
-Hyundai,2017 Hyundai Santa Fe Sport 2.4L,2017,12695.0,87339.0,Gasoline,Other,AWD,23.0,2.4L
 Hyundai,2018 Hyundai TUCSON Value,2018,16795.0,51677.0,Gasoline,Automatic,AWD,26.0,1.6L
 Hyundai,2018 Hyundai SONATA Sport,2018,17195.0,87055.0,Gasoline,Automatic,FWD,30.0,2.4L
 Hyundai,2019 Hyundai SANTA FE SEL 2.4,2019,17875.0,58802.0,Gasoline,Automatic,AWD,24.0,2.4L
@@ -4317,7 +4089,6 @@ Hyundai,2023 Hyundai ELANTRA SEL,2023,18795.0,58848.0,Gasoline,Automatic,FWD,35.
 Hyundai,2020 Hyundai SANTA FE SEL 2.4,2020,18995.0,74764.0,Gasoline,Automatic,AWD,24.0,2.4L
 Hyundai,2021 Hyundai TUCSON Sport,2021,17997.0,86793.0,Gasoline,Automatic,AWD,23.5,2.4L
 Hyundai,2017 Hyundai Veloster Value Edition,2017,12777.0,65407.0,Gasoline,Automatic,FWD,25.5,1.6L
-Hyundai,2023 Hyundai KONA SEL,2023,20344.0,44555.0,Gasoline,Other,AWD,30.5,2.0L
 Hyundai,2024 Hyundai KONA SEL,2024,24567.0,2580.0,Gasoline,Automatic,AWD,28.0,2.0L
 Hyundai,2020 Hyundai SANTA FE SEL 2.0T,2020,19983.0,70000.0,Gasoline,Automatic,AWD,23.0,2.0L
 Hyundai,2022 Hyundai TUCSON SEL,2022,26998.0,24955.0,Gasoline,Automatic,AWD,26.5,2.5L
@@ -4335,7 +4106,6 @@ Hyundai,2014 Hyundai SANTA FE GLS,2014,9999.0,137593.0,Gasoline,Automatic,AWD,24
 Hyundai,2013 Hyundai SANTA FE Sport,2013,9950.0,113512.0,Gasoline,Automatic,AWD,23.0,2.4L
 Hyundai,2023 Hyundai SANTA FE SEL 2.4,2023,25286.0,38275.0,Gasoline,Automatic,AWD,23.5,2.5L
 Hyundai,2015 Hyundai ELANTRA SE,2015,9977.0,86283.0,Gasoline,Automatic,FWD,33.0,1.8L
-Hyundai,2022 Hyundai ELANTRA SEL,2022,16775.0,51518.0,Gasoline,Other,FWD,24.5,2.0L
 Hyundai,2023 Hyundai SANTA FE SEL 2.4,2023,21272.0,52280.0,Gasoline,Automatic,AWD,23.5,2.5L
 Hyundai,2024 Hyundai SANTA FE SE,2024,27967.0,55584.0,Gasoline,Automatic,FWD,24.5,2.5L
 Hyundai,2015 Hyundai SONATA Sport,2015,10998.0,106982.0,Gasoline,Automatic,FWD,29.5,2.4L
@@ -4434,7 +4204,6 @@ Hyundai,2024 Hyundai SANTA FE Limited,2024,38298.0,4771.0,Gasoline,Automatic,AWD
 Hyundai,2022 Hyundai Accent SE,2022,15072.0,52287.0,Gasoline,Automatic,FWD,37.0,1.6L
 Hyundai,2024 Hyundai IONIQ 5 SE,2024,56155.0,229.0,Electric,Automatic,AWD,25.5,Electric
 Hyundai,2024 Hyundai KONA N Line,2024,27899.0,1647.0,Gasoline,Automatic,AWD,26.5,1.6L
-Hyundai,2024 Hyundai KONA SEL,2024,23111.0,15936.0,Gasoline,Other,AWD,28.0,2.0L
 Hyundai,2022 Hyundai KONA N Line,2022,21749.0,13692.0,Gasoline,Automatic,AWD,29.5,1.6L
 Hyundai,2024 Hyundai KONA SEL,2024,23179.0,5498.0,Gasoline,Automatic,AWD,28.0,2.0L
 Hyundai,2022 Hyundai KONA SE,2022,17690.0,27820.0,Gasoline,Automatic,FWD,32.5,2.0L
@@ -4448,10 +4217,8 @@ Hyundai,2024 Hyundai PALISADE XRT,2024,36100.0,32910.0,Gasoline,Automatic,AWD,21
 Hyundai,2022 Hyundai PALISADE Calligraphy,2022,34894.0,33026.0,Gasoline,Automatic,AWD,21.5,3.8L
 Hyundai,2024 Hyundai SANTA FE XRT,2024,38199.0,7000.0,Gasoline,Automatic,AWD,22.5,2.5L
 Hyundai,2020 Hyundai KONA SE,2020,14592.0,85818.0,Gasoline,Automatic,FWD,30.0,2.0L
-Hyundai,2023 Hyundai SANTA FE Limited,2023,28650.0,40942.0,Gasoline,Other,AWD,24.5,2.5L
 Hyundai,2025 Hyundai KONA SEL Convenience,2025,25051.0,1948.0,Gasoline,Automatic,FWD,31.5,2.0L
 Hyundai,2023 Hyundai KONA SEL,2023,21888.0,17173.0,Gasoline,Automatic,AWD,30.5,2.0L
-Hyundai,2024 Hyundai KONA SEL,2024,23896.0,25732.0,Gasoline,Other,AWD,28.0,2.0L
 Hyundai,2024 Hyundai PALISADE SEL,2024,34897.0,33621.0,Gasoline,Automatic,AWD,21.5,3.8L
 Hyundai,2019 Hyundai Accent SE,2019,10478.0,92042.0,Gasoline,Automatic,FWD,33.0,1.6L
 Hyundai,2019 Hyundai KONA Ultimate,2019,16554.0,53351.0,Gasoline,Automatic,AWD,27.5,1.6L
@@ -4466,7 +4233,6 @@ Hyundai,2022 Hyundai SANTA FE XRT,2022,24977.0,27433.0,Gasoline,Automatic,AWD,23
 Hyundai,2020 Hyundai PALISADE Limited,2020,27066.0,76438.0,Gasoline,Automatic,AWD,21.5,3.8L
 Hyundai,2019 Hyundai SANTA FE SE 2.4,2019,17895.0,99188.0,Gasoline,Automatic,AWD,24.0,2.4L
 Hyundai,2019 Hyundai SONATA SE,2019,12794.0,72587.0,Gasoline,Automatic,FWD,30.5,2.4L
-Hyundai,2021 Hyundai SANTA FE Calligraphy,2021,29995.0,30545.0,Gasoline,Other,AWD,24.5,2.5L
 Hyundai,2024 Hyundai VENUE Limited,2024,22477.0,4558.0,Gasoline,Automatic,FWD,31.0,1.6L
 Hyundai,2022 Hyundai SANTA FE HEV Limited,2022,29118.0,33900.0,Hybrid,Automatic,AWD,31.5,1.6L
 Hyundai,2019 Hyundai SANTA FE Ultimate 2.4,2019,18499.0,66547.0,Gasoline,Automatic,AWD,24.0,2.4L
@@ -4493,7 +4259,6 @@ Hyundai,2023 Hyundai SANTA FE SEL 2.4,2023,20495.0,59589.0,Gasoline,Automatic,FW
 Hyundai,2024 Hyundai PALISADE Calligraphy,2024,40995.0,35251.0,Gasoline,Automatic,AWD,21.5,3.8L
 Hyundai,2019 Hyundai SANTA FE SEL 2.4,2019,19863.0,42300.0,Gasoline,Automatic,AWD,24.0,2.4L
 Hyundai,2021 Hyundai PALISADE Calligraphy,2021,30739.0,73165.0,Gasoline,Automatic,AWD,21.5,3.8L
-Hyundai,2017 Hyundai SANTA FE SE,2017,12950.0,93101.0,Gasoline,Other,FWD,21.5,3.3L
 Hyundai,2021 Hyundai PALISADE Calligraphy,2021,35917.0,36558.0,Gasoline,Automatic,AWD,21.5,3.8L
 Hyundai,2013 Hyundai ELANTRA GS,2013,4999.0,126196.0,Gasoline,Automatic,FWD,32.0,1.8L
 Hyundai,2020 Hyundai PALISADE SEL,2020,28329.0,61374.0,Gasoline,Automatic,FWD,22.5,3.8L
@@ -4515,7 +4280,6 @@ Hyundai,2022 Hyundai SANTA FE Limited,2022,26839.0,45926.0,Gasoline,Automatic,FW
 Hyundai,2013 Hyundai SANTA FE Sport 2.0T,2013,7239.0,136220.0,Gasoline,Automatic,FWD,23.5,2.0L
 Hyundai,2023 Hyundai SANTA FE SEL 2.4,2023,23095.0,57900.0,Gasoline,Automatic,AWD,23.5,2.5L
 Hyundai,2013 Hyundai SANTA FE GLS,2013,9990.0,123527.0,Gasoline,Automatic,AWD,21.0,3.3L
-Hyundai,2022 Hyundai SANTA FE Limited,2022,26533.0,48729.0,Gasoline,Other,AWD,24.5,2.5L
 Hyundai,2025 Hyundai SANTA FE SEL,2025,35988.0,3742.0,Gasoline,Automatic,AWD,24.0,2.5L
 Hyundai,2024 Hyundai PALISADE Calligraphy,2024,38995.0,33914.0,Gasoline,Automatic,FWD,22.5,3.8L
 Hyundai,2023 Hyundai SONATA SEL Plus,2023,23777.0,58531.0,Gasoline,Automatic,FWD,32.0,1.6L
@@ -4529,7 +4293,6 @@ Hyundai,2022 Hyundai TUCSON Limited,2022,28319.0,31925.0,Gasoline,Automatic,AWD,
 Hyundai,2022 Hyundai TUCSON Limited,2022,25398.0,33049.0,Gasoline,Automatic,AWD,26.5,2.5L
 Hyundai,2024 Hyundai PALISADE XRT,2024,36949.0,31721.0,Gasoline,Automatic,AWD,21.5,3.8L
 Hyundai,2023 Hyundai TUCSON SEL,2023,18390.0,63262.0,Gasoline,Automatic,FWD,28.5,2.5L
-Hyundai,2023 Hyundai VENUE SEL,2023,15751.0,65403.0,Gasoline,Other,FWD,31.0,1.6L
 Hyundai,2025 Hyundai ELANTRA SEL Sport,2025,20877.0,15875.0,Gasoline,Automatic,FWD,34.5,2.0L
 Hyundai,2023 Hyundai PALISADE Limited,2023,34572.0,42732.0,Gasoline,Automatic,AWD,22.0,3.8L
 Hyundai,2023 Hyundai PALISADE Calligraphy,2023,36971.0,24514.0,Gasoline,Automatic,AWD,22.0,3.8L
@@ -4547,7 +4310,6 @@ Hyundai,2023 Hyundai TUCSON SEL,2023,23988.0,23375.0,Gasoline,Automatic,FWD,28.5
 Hyundai,2024 Hyundai ELANTRA SEL,2024,24988.0,4940.0,Gasoline,Automatic,FWD,35.5,2.0L
 Hyundai,2024 Hyundai ELANTRA SEL,2024,20914.0,12763.0,Gasoline,Automatic,FWD,35.5,2.0L
 Hyundai,2022 Hyundai SANTA FE Limited,2022,30996.0,18183.0,Hybrid,Automatic,AWD,31.5,1.6L
-Hyundai,2020 Hyundai ELANTRA SE,2020,9995.0,123846.0,Gasoline,Other,FWD,35.5,2.0L
 Hyundai,2022 Hyundai ELANTRA SEL,2022,18995.0,23287.0,Gasoline,Automatic,FWD,36.0,2.0L
 Hyundai,2022 Hyundai ELANTRA SE,2022,18343.0,15712.0,Gasoline,Automatic,FWD,38.0,2.0L
 Hyundai,2024 Hyundai TUCSON Plug-In Hybrid Limited,2024,41300.0,1161.0,Hybrid,Automatic,AWD,25.5,1.6L
@@ -4555,7 +4317,6 @@ Hyundai,2018 Hyundai TUCSON SEL Plus,2018,13495.0,90689.0,Gasoline,Automatic,AWD
 Hyundai,2022 Hyundai ELANTRA SEL,2022,17995.0,33164.0,Gasoline,Automatic,FWD,36.0,2.0L
 Hyundai,2022 Hyundai SANTA FE SEL 2.4,2022,24995.0,24196.0,Gasoline,Automatic,AWD,23.5,2.5L
 Hyundai,2008 Hyundai ELANTRA GLS,2008,3995.0,119635.0,Gasoline,Automatic,FWD,29.0,2.0L
-Hyundai,2022 Hyundai VENUE SEL,2022,17945.0,17708.0,Gasoline,Other,FWD,31.0,1.6L
 Hyundai,2013 Hyundai ELANTRA GLS,2013,9875.0,88700.0,Gasoline,Automatic,FWD,33.0,1.8L
 Hyundai,2024 Hyundai SONATA SEL,2024,24918.0,7000.0,Gasoline,Automatic,AWD,29.5,2.5L
 Hyundai,2014 Hyundai SONATA GLS,2014,8388.0,103076.0,Gasoline,Automatic,FWD,29.5,2.4L
@@ -4575,22 +4336,16 @@ Hyundai,2021 Hyundai KONA Ultimate,2021,21350.0,23955.0,Gasoline,Automatic,AWD,2
 Hyundai,2023 Hyundai SONATA Hybrid Blue,2023,25488.0,9821.0,Hybrid,Automatic,FWD,52.0,2.0L
 Hyundai,2025 Hyundai TUCSON SEL,2025,31720.0,1012.0,Gasoline,Automatic,AWD,27.0,2.5L
 Hyundai,2024 Hyundai TUCSON SE,2024,23970.0,10972.0,Gasoline,Automatic,AWD,26.0,2.5L
-Hyundai,2022 Hyundai VENUE Limited,2022,18973.0,14541.0,Gasoline,Other,FWD,31.0,1.6L
 Hyundai,2025 Hyundai PALISADE Limited,2025,50229.0,4087.0,Gasoline,Automatic,AWD,21.5,3.8L
 Hyundai,2024 Hyundai SANTA FE HEV Limited,2024,37916.0,14460.0,Hybrid,Automatic,FWD,35.5,1.6L
 Hyundai,2017 Hyundai TUCSON SE,2017,13523.0,69415.0,Gasoline,Automatic,FWD,26.5,2.0L
 Hyundai,2024 Hyundai TUCSON SEL,2024,24631.0,31292.0,Gasoline,Automatic,AWD,26.0,2.5L
 Hyundai,2024 Hyundai IONIQ 5 Limited,2024,52999.0,461.0,Electric,Automatic,AWD,25.5,Electric
-Hyundai,2023 Hyundai ELANTRA N Line,2023,23500.0,50231.0,Gasoline,Other,FWD,32.0,1.6L
-Hyundai,2022 Hyundai KONA SE,2022,17450.0,48956.0,Gasoline,Other,FWD,32.5,2.0L
 Hyundai,2024 Hyundai TUCSON Plug-In Hybrid Limited,2024,41400.0,1482.0,Hybrid,Automatic,AWD,25.5,1.6L
 Hyundai,2024 Hyundai VENUE Limited,2024,20700.0,5018.0,Gasoline,Automatic,FWD,31.0,1.6L
 Hyundai,2018 Hyundai ELANTRA SE,2018,10990.0,76309.0,Gasoline,Automatic,FWD,33.5,2.0L
-Hyundai,2024 Hyundai ELANTRA SEL,2024,21880.0,7485.0,Gasoline,Other,FWD,35.5,2.0L
 Hyundai,2017 Hyundai Santa Fe Sport 2.4L,2017,12839.0,96680.0,Gasoline,Automatic,AWD,23.0,2.4L
-Hyundai,2022 Hyundai KONA SEL,2022,19998.0,38371.0,Gasoline,Other,AWD,30.5,2.0L
 Hyundai,2024 Hyundai TUCSON SEL,2024,24119.0,33089.0,Gasoline,Automatic,AWD,26.0,2.5L
-Hyundai,2022 Hyundai KONA SEL,2022,22419.0,3853.0,Gasoline,Other,AWD,30.5,2.0L
 Hyundai,2014 Hyundai Santa Fe Sport 2.0L Turbo,2014,11996.0,98421.0,Gasoline,Automatic,FWD,23.0,2.0L
 Hyundai,2022 Hyundai ELANTRA Limited,2022,20895.0,29970.0,Gasoline,Automatic,FWD,36.0,2.0L
 Hyundai,2019 Hyundai TUCSON Value,2019,11744.0,130585.0,Gasoline,Automatic,AWD,23.5,2.0L
@@ -4611,7 +4366,6 @@ Hyundai,2018 Hyundai ELANTRA SE,2018,10500.0,71289.0,Gasoline,Automatic,FWD,32.5
 Hyundai,2018 Hyundai KONA SE,2018,16988.0,8435.0,Gasoline,Automatic,FWD,30.0,2.0L
 Hyundai,2025 Hyundai VENUE SEL,2025,22796.0,7000.0,Gasoline,Automatic,FWD,30.5,1.6L
 Hyundai,2012 Hyundai ELANTRA GLS,2012,6155.0,109203.0,Gasoline,Automatic,FWD,33.0,1.8L
-Hyundai,2023 Hyundai VENUE Limited,2023,19500.0,12015.0,Gasoline,Other,FWD,31.0,1.6L
 Hyundai,2020 Hyundai KONA SEL Plus,2020,16825.0,85514.0,Gasoline,Automatic,AWD,28.0,2.0L
 Hyundai,2023 Hyundai SANTA CRUZ SEL Premium,2023,29977.0,10376.0,Gasoline,Automatic,AWD,23.0,2.5L
 Hyundai,2024 Hyundai SANTA CRUZ XRT,2024,29769.0,9181.0,Gasoline,Automatic,AWD,23.0,2.5L
